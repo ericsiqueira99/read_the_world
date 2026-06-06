@@ -30,7 +30,7 @@ export default function CountryModal({
       onOpenChange={(e) => {
         if (!e.open) onClose();
       }}
-      size="xl"
+      size={["full", "xl"]}
     >
       <Dialog.Backdrop />
 

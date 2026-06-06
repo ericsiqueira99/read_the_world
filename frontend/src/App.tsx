@@ -153,24 +153,17 @@ export default function App() {
             position="absolute"
             top="16px"
             left="20px"
+            right="20px"       
             zIndex={1000}
             align="center"
-            gap={3}
+            gap={[2, 3]}
+            flexWrap="wrap"     
           >
-            <Text fontSize="11px" color="#888">
-              Read the World
-            </Text>
-
-            <Text fontSize="10px" color="#888">
+            <Text fontSize={["10px", "11px"]} color="#888">Read the World</Text>
+            <Text fontSize={["9px", "10px"]} color="#888">
               {totalBooks} books · {totalCountries} countries · {percentage}%
             </Text>
-
-            <IconButton
-              aria-label="Reset"
-              size="xs"
-              variant="ghost"
-              onClick={() => setStage("input")}
-            >
+            <IconButton aria-label="Reset" size="xs" variant="ghost" onClick={() => setStage("input")}>
               <RefreshCcw size={10} />
             </IconButton>
           </Flex>
@@ -182,10 +175,13 @@ export default function App() {
               minZoom={2}
               maxZoom={8}
               attributionControl={false}
+              zoomAnimation={false}
               zoomControl={false}
               scrollWheelZoom
               whenReady={() => setMapReady(true)}
               style={{ width: "100%", height: "100%" }}
+              maxBounds={[[-90, -180], [90, 180]]}
+              maxBoundsViscosity={1.0}
             >
               <FixLeafletPointerEvents />
               {mapReady && geoData && (
