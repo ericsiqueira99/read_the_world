@@ -209,11 +209,11 @@ const CACHE_TTL_MS = 24 * 60 * 60 * 1000;
 import { Redis } from '@upstash/redis';
 
 const redis = new Redis({
-  url: process.env.UPSTASH_REDIS_REST_URL,
-  token: process.env.UPSTASH_REDIS_REST_TOKEN,
+  url: process.env.KV_REST_API_URL,
+  token: process.env.KV_REST_API_TOKEN,
 });
 
-const IS_VERCEL = !!process.env.UPSTASH_REDIS_REST_URL;
+const IS_VERCEL = !!process.env.KV_REST_API_URL;
 
  async function getCachedResult(userId) {
   if (IS_VERCEL) {
