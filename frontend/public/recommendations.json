@@ -1,0 +1,6025 @@
+[
+  {
+    "iso": "AFG",
+    "books": [
+      {
+        "name": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/8579790-L.jpg"
+      },
+      {
+        "name": "Waiting for the Taliban",
+        "author": "Anna Badkhen",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Photographer",
+        "author": "Emmanuel Guibert",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/6301331-L.jpg"
+      },
+      {
+        "name": "Behind the Burqa",
+        "author": "Batya Swift Yasgur",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/302710-L.jpg"
+      },
+      {
+        "name": "A Thousand Rooms of Dream and Fear",
+        "author": "Atiq Rahimi",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/75542-L.jpg"
+      },
+      {
+        "name": "The Patience Stone",
+        "author": "Atiq Rahimi",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/7986908-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ALB",
+    "books": [
+      {
+        "name": "The Palace of Dreams",
+        "author": "Ismail Kadare",
+        "year": 1981,
+        "image": "https://covers.openlibrary.org/b/id/8049073-L.jpg"
+      },
+      {
+        "name": "The Loser",
+        "author": "Fatos Kongoli",
+        "year": 1983,
+        "image": "https://covers.openlibrary.org/b/id/3004127-L.jpg"
+      },
+      {
+        "name": "Broken April",
+        "author": "Ismail Kadare",
+        "year": 1980,
+        "image": "https://covers.openlibrary.org/b/id/1609425-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "DZA",
+    "books": [
+      {
+        "name": "The Sexual Life of an Islamist in Paris",
+        "author": "Leïla Marouane",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "Abduction",
+        "author": "Anouar Benmalek",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/13108563-L.jpg"
+      },
+      {
+        "name": "So Vast the Prison",
+        "author": "Assia Djebar",
+        "year": 2002,
+        "image": null
+      },
+      {
+        "name": "An Unfinished Business",
+        "author": "Boualem Sansal",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/10438094-L.jpg"
+      },
+      {
+        "name": "The Earthquake",
+        "author": "Al-Tahir Wattar",
+        "year": 2000,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20The%20Earthquake%20%28Le%20tremblement%20de%20terre%20%29%20-%20James%20Tissot.jpg"
+      },
+      {
+        "name": "The Lovers of Algeria",
+        "author": "Anouar Benmalek",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/776541-L.jpg"
+      },
+      {
+        "name": "The Attack",
+        "author": "Yasmina Khadra",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/242945-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "AND",
+    "books": [
+      {
+        "name": "The Teacher of Cheops",
+        "author": "Albert Salvadó",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/10868982-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "AGO",
+    "books": [
+      {
+        "name": "My Father’s Wives",
+        "author": "José Eduardo Agualusa",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/7574943-L.jpg"
+      },
+      {
+        "name": "Creole",
+        "author": "José Eduardo Agualusa",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/946874-L.jpg"
+      },
+      {
+        "name": "The Return of the Water Spirit",
+        "author": "Pepetela",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/4628458-L.jpg"
+      },
+      {
+        "name": "Good Morning Comrades",
+        "author": "Ondjaki",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Whistler",
+        "author": "Ondjaki",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/2696714-L.jpg"
+      },
+      {
+        "name": "The Book of Chameleons",
+        "author": "Jose Eduardo Agualusa",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/952165-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ATG",
+    "books": [
+      {
+        "name": "Lucy",
+        "author": "Jamaica Kincaid",
+        "year": 1990,
+        "image": "https://covers.openlibrary.org/b/id/3239201-L.jpg"
+      },
+      {
+        "name": "Annie John",
+        "author": "Jamaica Kincaid",
+        "year": 1985,
+        "image": "https://covers.openlibrary.org/b/id/7323200-L.jpg"
+      },
+      {
+        "name": "Unburnable",
+        "author": "Marie-Elena John",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/37631-L.jpg"
+      },
+      {
+        "name": "Loving this Man",
+        "author": "Althea Prince",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/2099920-L.jpg"
+      },
+      {
+        "name": "Ladies of the Night",
+        "author": "Althea Prince",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/9455527-L.jpg"
+      },
+      {
+        "name": "Considering Venus",
+        "author": "Gisele Isaac",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/2087078-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ARG",
+    "books": [
+      {
+        "name": "Seconds Out",
+        "author": "Martin Kohan",
+        "year": 1977,
+        "image": "https://covers.openlibrary.org/b/id/3345309-L.jpg"
+      },
+      {
+        "name": "How I Became a Nun",
+        "author": "César Aira",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/598486-L.jpg"
+      },
+      {
+        "name": "An Episode in the Life of a Landscape Painter",
+        "author": "César Aira",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/13439402-L.jpg"
+      },
+      {
+        "name": "The Tunnel",
+        "author": "Ernesto Sábato",
+        "year": 2001,
+        "image": null
+      },
+      {
+        "name": "Musicians and Watchmakers",
+        "author": "Alicia Steimberg",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Purgatory (trans. Frank Wynne)",
+        "author": "Tomás Eloy Martínez",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "7 Ways to Kill a Cat (trans. Frank Wynne)",
+        "author": "Matias Nespolo",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Islands",
+        "author": "Carlos Gamerro",
+        "year": 1983,
+        "image": null
+      },
+      {
+        "name": "Opendoor",
+        "author": "Iosi Havilio",
+        "year": 2006,
+        "image": null
+      },
+      {
+        "name": "Respiración artificial",
+        "author": "Ricardo Piglia",
+        "year": 1980,
+        "image": "https://covers.openlibrary.org/b/id/13788977-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ARM",
+    "books": [
+      {
+        "name": "Bringing Ararat",
+        "author": "Armand Inezian",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/10874684-L.jpg"
+      },
+      {
+        "name": "Armenian Golgotha",
+        "author": "Grigoris Balakian",
+        "year": 1922,
+        "image": "https://covers.openlibrary.org/b/id/7896474-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "AUS",
+    "books": [
+      {
+        "name": "Cloudstreet",
+        "author": "Tim Winton",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/3973696-L.jpg"
+      },
+      {
+        "name": "The Children’s Bach",
+        "author": "Helen Garner",
+        "year": 1984,
+        "image": null
+      },
+      {
+        "name": "The Book Thief",
+        "author": "Markus Zusak",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/8153054-L.jpg"
+      },
+      {
+        "name": "The Boat",
+        "author": "Nam Le",
+        "year": 1921,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buster%20Keaton%20Sybil%20Seely%20The%20Boat%20screenshot%201%20christening.jpg"
+      },
+      {
+        "name": "The White Earth",
+        "author": "Andrew McGahan",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/4256055-L.jpg"
+      },
+      {
+        "name": "Milk and Honey",
+        "author": "Elizabeth Jolley",
+        "year": 1984,
+        "image": "https://covers.openlibrary.org/b/id/4164790-L.jpg"
+      },
+      {
+        "name": "Lovesong",
+        "author": "Alex Miller",
+        "year": 1989,
+        "image": "https://covers.openlibrary.org/b/id/10668383-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "AUT",
+    "books": [
+      {
+        "name": "The Torch in my Ear",
+        "author": "Elias Canetti",
+        "year": 1983,
+        "image": "https://covers.openlibrary.org/b/id/8408893-L.jpg"
+      },
+      {
+        "name": "Frozen Time",
+        "author": "Anna Kim",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "Extinction",
+        "author": "Thomas Bernhard",
+        "year": 1986,
+        "image": "https://covers.openlibrary.org/b/id/14773997-L.jpg"
+      },
+      {
+        "name": "The Royal Game",
+        "author": "Stefan Zweig",
+        "year": 1942,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Woodcut%20Schachnovelle%20Stefan%20Zweig.jpg"
+      },
+      {
+        "name": "Splithead",
+        "author": "Julya Rabinovich",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "AZE",
+    "books": [
+      {
+        "name": "Magnolia",
+        "author": "Gioulzar Akhmedova",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "UNK",
+    "books": [
+      {
+        "name": "God’s Angry Babies",
+        "author": "Ian Strachan",
+        "year": 1997,
+        "image": "https://covers.openlibrary.org/b/id/3845409-L.jpg"
+      },
+      {
+        "name": "Thine is the Kingdom",
+        "author": "Garth Buckner",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/6830995-L.jpg"
+      },
+      {
+        "name": "Dusun Folktales: A Collection of Eighty-eight Folktales in the Dusun Language of Brunei with English Translations",
+        "author": "Eva Maria Kershaw",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Four Kings",
+        "author": "Christopher Sun (aka Sun Tze Yun)",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Full Circle",
+        "author": "Frederick Yamusangie",
+        "year": 2003,
+        "image": "https://covers.openlibrary.org/b/id/2529027-L.jpg"
+      },
+      {
+        "name": "Johnny Mad Dog",
+        "author": "Emmanuel Dongala",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/181975-L.jpg"
+      },
+      {
+        "name": "Little Boys Come from the Stars",
+        "author": "Emmanuel Dongala",
+        "year": 2007,
+        "image": null
+      },
+      {
+        "name": "The Antipeople",
+        "author": "Sony Lab’ou Tansi",
+        "year": 1988,
+        "image": null
+      },
+      {
+        "name": "Allah is not Obliged",
+        "author": "Ahmadou Kourouma",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/11333834-L.jpg"
+      },
+      {
+        "name": "The Crossing",
+        "author": "Luis Cardoso",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/13242699-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "BHR",
+    "books": [
+      {
+        "name": "Quixotiq",
+        "author": "Ali Al Saeed",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/387961-L.jpg"
+      },
+      {
+        "name": "Yummah",
+        "author": "Sarah A Al Sahfei",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BGD",
+    "books": [
+      {
+        "name": "Shame",
+        "author": "Taslima Nasrin",
+        "year": 1997,
+        "image": "https://covers.openlibrary.org/b/id/825755-L.jpg"
+      },
+      {
+        "name": "The Laughter of a Slave",
+        "author": "Shawkat Osman",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Good Muslim",
+        "author": "Tahmima Anam",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/8769214-L.jpg"
+      },
+      {
+        "name": "To the Woods Dark and Deep",
+        "author": "Humayun Ahmed",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "When the Evening Darkens",
+        "author": "Ekhlasuddin Ahmed",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Rifles Bread Women",
+        "author": "Anwar Pasha",
+        "year": 1976,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BRB",
+    "books": [
+      {
+        "name": "Redemption in Indigo",
+        "author": "Karen Lord",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/10217680-L.jpg"
+      },
+      {
+        "name": "Flickering Shadows",
+        "author": "Agymah Kamau",
+        "year": 1996,
+        "image": "https://covers.openlibrary.org/b/id/808059-L.jpg"
+      },
+      {
+        "name": "Pictures of a Dying Man",
+        "author": "Agymah Kamau",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/808094-L.jpg"
+      },
+      {
+        "name": "Fire in the Canes",
+        "author": "Glenville Lovell",
+        "year": 1995,
+        "image": "https://covers.openlibrary.org/b/id/3914473-L.jpg"
+      },
+      {
+        "name": "Song of Night",
+        "author": "Glenville Lovell",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/814055-L.jpg"
+      },
+      {
+        "name": "Too Beautiful to Die",
+        "author": "Glenville Lovell",
+        "year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/1199257-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "BLR",
+    "books": [
+      {
+        "name": "The Sun City of Dreams",
+        "author": "Artur Klinov",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "King Stakh’s Wild Hunt",
+        "author": "Uladzimir Karatkievich",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Sotnikau",
+        "author": "Uladzimir Bykau",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Voices from Chernobyl",
+        "author": "Svetlana Alexievich",
+        "year": 1997,
+        "image": null
+      },
+      {
+        "name": "Paranoia",
+        "author": "Viktar Martsinovich",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BEL",
+    "books": [
+      {
+        "name": "The Adventures of Tintin",
+        "author": "Hergé",
+        "year": 1984,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aventures-de-Tintin.svg"
+      },
+      {
+        "name": "The Guard",
+        "author": "Peter Terrin",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/8174653-L.jpg"
+      },
+      {
+        "name": "The Angel Maker",
+        "author": "Stefan Brijs",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/2353421-L.jpg"
+      },
+      {
+        "name": "Invitation to a Voyage",
+        "author": "Francois Emmanuel",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/14480424-L.jpg"
+      },
+      {
+        "name": "The Misfortunates",
+        "author": "Dimitri Verhulst",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/8186255-L.jpg"
+      },
+      {
+        "name": "Boon My Little War",
+        "author": "Louis Paul",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Omega Minor",
+        "author": "Paul Verhaeghen",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/2916360-L.jpg"
+      },
+      {
+        "name": "Fear and Trembling",
+        "author": "Amélie Nothomb",
+        "year": 1843,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frygt%20og%20B%C3%A6ven.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "BLZ",
+    "books": [
+      {
+        "name": "On Heroes Lizards and Passion",
+        "author": "Zoila Ellis",
+        "year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/1054062-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "BEN",
+    "books": [
+      {
+        "name": "Stories We Tell Each Other",
+        "author": "Rashidah Ismaili Abubakr",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BTN",
+    "books": [
+      {
+        "name": "The Circle of Karma",
+        "author": "Kunzang Choden",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/1046409-L.jpg"
+      },
+      {
+        "name": "The Hero with a Thousand Eyes",
+        "author": "Karma Ura",
+        "year": 1995,
+        "image": "https://covers.openlibrary.org/b/id/3775884-L.jpg"
+      },
+      {
+        "name": "Seeing with the Third Eye",
+        "author": "T Sangay Wangchuk",
+        "year": 2007,
+        "image": null
+      },
+      {
+        "name": "Bomena",
+        "author": "Dorji Penjore",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Coming Home",
+        "author": "Pema Euden",
+        "year": 1993,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BOL",
+    "books": [
+      {
+        "name": "Sweet Blood",
+        "author": "Giovanna Rivero",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "American Visa",
+        "author": "Juan de Recacoechea",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/6863552-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "BIH",
+    "books": [
+      {
+        "name": "Zlata’s Diary",
+        "author": "Zlata Filipovic",
+        "year": 1994,
+        "image": "https://covers.openlibrary.org/b/id/12876661-L.jpg"
+      },
+      {
+        "name": "How the Soldier Repairs the Gramophone",
+        "author": "Saša Stanišić",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Lazarus Project",
+        "author": "Aleksandar Hemon",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/9163428-L.jpg"
+      },
+      {
+        "name": "The Bridge on the Drina",
+        "author": "Ivo Andric",
+        "year": 1945,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mehmed%20Pasa%20Sokolovic%20Bridge%20Visegrad%201900.JPG"
+      },
+      {
+        "name": "Death and the Dervish",
+        "author": "Meša Selimović",
+        "year": 1966,
+        "image": "https://covers.openlibrary.org/b/id/3849404-L.jpg"
+      },
+      {
+        "name": "Fortress",
+        "author": "Meša Selimović",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/3697030-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "BWA",
+    "books": [
+      {
+        "name": "The Lion Children",
+        "author": "Angus Maisie and Travers McNeice",
+        "year": 2001,
+        "image": null
+      },
+      {
+        "name": "A Question of Power",
+        "author": "Bessie Head",
+        "year": 1973,
+        "image": "https://covers.openlibrary.org/b/id/275115-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "BRA",
+    "books": [
+      {
+        "name": "House of the Fortunate Buddhas",
+        "author": "Joao Ubaldo Ribeiro",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "An Invincible Memory",
+        "author": "Joao Ubaldo Ribeiro",
+        "year": 1989,
+        "image": "https://covers.openlibrary.org/b/id/7132837-L.jpg"
+      },
+      {
+        "name": "The Hour of the Star",
+        "author": "Clarice Lispector",
+        "year": 1977,
+        "image": "https://covers.openlibrary.org/b/id/598137-L.jpg"
+      },
+      {
+        "name": "Pedagogy of the Oppressed",
+        "author": "Paulo Freire",
+        "year": 1968,
+        "image": "https://covers.openlibrary.org/b/id/99306-L.jpg"
+      },
+      {
+        "name": "Gabriela, Clove and Cinnamon",
+        "author": "Jorge Amado",
+        "year": 1958,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriela%2C%20Cravo%20e%20Canela.jpg"
+      },
+      {
+        "name": "Dom Casmurro",
+        "author": "Machado de Assis",
+        "year": 1899,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DomCasmurroMachadodeAssis.jpg"
+      },
+      {
+        "name": "Budapest",
+        "author": "Chico Buarque",
+        "year": 2004,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Budapest%2C%20Hungary%20%28explored%29%20%2814995308504%29.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "BGR",
+    "books": [
+      {
+        "name": "The Tongue Set Free",
+        "author": "Elias Canetti",
+        "year": null,
+        "image": "https://covers.openlibrary.org/b/id/7596701-L.jpg"
+      },
+      {
+        "name": "Is there Anybody to Love You?",
+        "author": "Kalin Terziyski",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Natural Novel",
+        "author": "Georgi Gospodinov",
+        "year": 1991,
+        "image": "https://covers.openlibrary.org/b/id/801715-L.jpg"
+      },
+      {
+        "name": "Street Without a Name",
+        "author": "Kapka Kassabova",
+        "year": 1934,
+        "image": "https://covers.openlibrary.org/b/id/10615234-L.jpg"
+      },
+      {
+        "name": "Time of Parting",
+        "author": "Anton Donchev",
+        "year": 1964,
+        "image": "https://covers.openlibrary.org/b/id/15080192-L.jpg"
+      },
+      {
+        "name": "Thrown into Nature",
+        "author": "Milen Ruskov",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/12892976-L.jpg"
+      },
+      {
+        "name": "The Peach Thief",
+        "author": "Emiliyan Stanev",
+        "year": 1964,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BFA",
+    "books": [
+      {
+        "name": "The Parachute Drop",
+        "author": "Nobert Zongo",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BDI",
+    "books": [
+      {
+        "name": "Weep Not Refugee",
+        "author": "Marie-Therese Toyi",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "KHM",
+    "books": [
+      {
+        "name": "Crossing Three Wildernesses",
+        "author": "U Sam Oeur",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/808162-L.jpg"
+      },
+      {
+        "name": "Unpolished Gem",
+        "author": "Alice Pung",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/6998068-L.jpg"
+      },
+      {
+        "name": "In the Shadow of the Banyan",
+        "author": "Vaddey Ratner",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/7383474-L.jpg"
+      },
+      {
+        "name": "First They Killed My Father",
+        "author": "Loung Ung",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/38440-L.jpg"
+      },
+      {
+        "name": "Music Through Dark",
+        "author": "Bree Lafreniere and Daran Kravanh",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "CMR",
+    "books": [
+      {
+        "name": "La Pauvre Christ de Bomba (The Poor Christ of Bomba)",
+        "author": "Mongo Beti",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Mission to Kala",
+        "author": "Mongo Beti",
+        "year": 1957,
+        "image": "https://covers.openlibrary.org/b/id/275034-L.jpg"
+      },
+      {
+        "name": "Mystique: a collection of lake myths",
+        "author": "Beatrice Fri Bime",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "CAN",
+    "books": [
+      {
+        "name": "Fifth Business",
+        "author": "Robertson Davies",
+        "year": 1970,
+        "image": "https://covers.openlibrary.org/b/id/111589-L.jpg"
+      },
+      {
+        "name": "Mauve Desert",
+        "author": "Nicole Brossard",
+        "year": 1990,
+        "image": "https://covers.openlibrary.org/b/id/5512360-L.jpg"
+      },
+      {
+        "name": "Runaway",
+        "author": "Alice Munro",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/8363456-L.jpg"
+      },
+      {
+        "name": "Our Daily Bread",
+        "author": "Lauren B Davis",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/13046361-L.jpg"
+      },
+      {
+        "name": "Mennonites Don’t Dance",
+        "author": "Darcie Friesen Hossack",
+        "year": 2023,
+        "image": null
+      },
+      {
+        "name": "Fugitive Pieces",
+        "author": "Anne Michaels",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/418998-L.jpg"
+      },
+      {
+        "name": "Green Grass Running Water",
+        "author": "Thomas King",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/369581-L.jpg"
+      },
+      {
+        "name": "Late Nights on Air",
+        "author": "Elizabeth Hay",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/3364291-L.jpg"
+      },
+      {
+        "name": "In the Skin of a Lion",
+        "author": "Michael Ondaatje",
+        "year": 1987,
+        "image": "https://covers.openlibrary.org/b/id/4128749-L.jpg"
+      },
+      {
+        "name": "Late Nights on Air",
+        "author": "Elizabeth Hay",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/3364291-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "CPV",
+    "books": [
+      {
+        "name": "The Last Will & Testament of Senhor da Silva Araújo",
+        "author": "Germano Almeida",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/598427-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "CAF",
+    "books": [
+      {
+        "name": "Dada’s Travels from Ouadda to Bangui",
+        "author": "Bamboté",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "TCD",
+    "books": [
+      {
+        "name": "Told by Starlight in Chad",
+        "author": "Joseph Brahim Seid",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/5195211-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "CHL",
+    "books": [
+      {
+        "name": "The Savage Detectives",
+        "author": "Roberto Bolano",
+        "year": 1998,
+        "image": null
+      },
+      {
+        "name": "Mala onda",
+        "author": "Alberto Fuguet",
+        "year": 1991,
+        "image": "https://covers.openlibrary.org/b/id/4917020-L.jpg"
+      },
+      {
+        "name": "La amortajada",
+        "author": "María Luisa Bombal",
+        "year": 1938,
+        "image": "https://covers.openlibrary.org/b/id/4926717-L.jpg"
+      },
+      {
+        "name": "Ardiente paciencia",
+        "author": "Antonio Skármeta",
+        "year": 1985,
+        "image": "https://covers.openlibrary.org/b/id/545970-L.jpg"
+      },
+      {
+        "name": "E. Luminata",
+        "author": "Diamela Eltit",
+        "year": 1983,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lump%C3%A9rica%2C%20portadilla%201983.jpg"
+      },
+      {
+        "name": "The Private Lives of Trees",
+        "author": "Alejandro Zambra",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Bonsai",
+        "author": "Alejandro Zambra",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/13464275-L.jpg"
+      },
+      {
+        "name": "The House of the Spirits (trans. Magda Bodin)",
+        "author": "Isabel Allende",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "CHN",
+    "books": [
+      {
+        "name": "I Love Dollars",
+        "author": "Zhu Wen",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/8201580-L.jpg"
+      },
+      {
+        "name": "Wolf Totem",
+        "author": "Jian Rong",
+        "year": 2004,
+        "image": null
+      },
+      {
+        "name": "Stick Out Your Tongue",
+        "author": "Ma Jian",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/1170260-L.jpg"
+      },
+      {
+        "name": "Banished!",
+        "author": "Han Dong",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/8510921-L.jpg"
+      },
+      {
+        "name": "Strange Beasts of China",
+        "author": "Yan Ge",
+        "year": 2021,
+        "image": "https://covers.openlibrary.org/b/id/11150771-L.jpg"
+      },
+      {
+        "name": "Village of Stone",
+        "author": "Xialou Guo",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Candy",
+        "author": "Mian Mian",
+        "year": 2003,
+        "image": "https://covers.openlibrary.org/b/id/8296446-L.jpg"
+      },
+      {
+        "name": "Playing for Thrills",
+        "author": "Wang Shuo",
+        "year": 1997,
+        "image": "https://covers.openlibrary.org/b/id/11695894-L.jpg"
+      },
+      {
+        "name": "I Love My Mum",
+        "author": "Chen Xiwo",
+        "year": 2019,
+        "image": null
+      },
+      {
+        "name": "Northward",
+        "author": "Xu Zechen",
+        "year": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tresco%20estate%20cottages%20-%20geograph.org.uk%20-%201766158.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "COL",
+    "books": [
+      {
+        "name": "The Armies",
+        "author": "Evelio Rosero",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/2272121-L.jpg"
+      },
+      {
+        "name": "Tickles in the Tongue",
+        "author": "Pilar Quintana",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Informers",
+        "author": "Juan Gabriel Vasquez",
+        "year": 2009,
+        "image": null
+      },
+      {
+        "name": "Boulevard of Heroes",
+        "author": "Eduardo Garcia Aguilar",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/3930397-L.jpg"
+      },
+      {
+        "name": "Our Lady of the Assassins",
+        "author": "Fernando Vallejo",
+        "year": 1994,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Our%20Lady%20of%20the%20Assassins%20%28representation%29.JPG"
+      },
+      {
+        "name": "Delirium",
+        "author": "Laura Restrepo",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/2270898-L.jpg"
+      },
+      {
+        "name": "Our Lady of the Assassins",
+        "author": "Fernando Vallejo",
+        "year": 1994,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Our%20Lady%20of%20the%20Assassins%20%28representation%29.JPG"
+      }
+    ]
+  },
+  {
+    "iso": "COM",
+    "books": [
+      {
+        "name": "The Kafir of Karthala",
+        "author": "Mohammed Toihiri",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "CRI",
+    "books": [
+      {
+        "name": "The Madwoman of Gandoca",
+        "author": "Anacristina Rossi",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/5085541-L.jpg"
+      },
+      {
+        "name": "Costa Rica: A Traveler’s Literary Companion",
+        "author": "ed. Barbara Ras",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Cadence of the Moon",
+        "author": "Oscar Nunez Olivas",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/14388377-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "HRV",
+    "books": [
+      {
+        "name": "On the Edge of Reason",
+        "author": "Miroslav Krleža",
+        "year": 1986,
+        "image": "https://covers.openlibrary.org/b/id/5511351-L.jpg"
+      },
+      {
+        "name": "The Ministry of Pain",
+        "author": "Dubravka Ugrĕsic",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "In the Jaws of Life",
+        "author": "Dubravka Ugrĕsic",
+        "year": 1984,
+        "image": null
+      },
+      {
+        "name": "A Guided Tour through the Museum of Communism",
+        "author": "Slavenka Drakulic",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/14389813-L.jpg"
+      },
+      {
+        "name": "Daughter of the Lotrščak",
+        "author": "Marija Jurić Zagorka",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "A Stone on the Road",
+        "author": "Marija Jurić Zagorka",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "CUB",
+    "books": [
+      {
+        "name": "Dancing to Almendra",
+        "author": "Mayra Montero",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/222686-L.jpg"
+      },
+      {
+        "name": "One Hundred Bottles",
+        "author": "Ena Lucia Portela",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Before Night Falls",
+        "author": "Reinaldo Arenas",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/9855950-L.jpg"
+      },
+      {
+        "name": "Before Night Falls",
+        "author": "Reinaldo Arenas",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/9855950-L.jpg"
+      },
+      {
+        "name": "The Man Who Loved Dogs",
+        "author": "Leonardo Padura Fuentes",
+        "year": 2009,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20Padura%20no%20Fronteiras%20do%20Pensamento%20S%C3%A3o%20Paulo%202017%20%2835948253614%29.jpg"
+      },
+      {
+        "name": "Paradiso",
+        "author": "José Lezama Lima",
+        "year": 1966,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paradiso%20switzerland.jpg"
+      },
+      {
+        "name": "Cobra",
+        "author": "Severo Sarduy",
+        "year": 1972,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zurich%20Be%205-6%20Cobra%203002%20Letzistrasse.jpg"
+      },
+      {
+        "name": "Infante",
+        "author": "Guillermo Cabrera",
+        "year": 1979,
+        "image": "https://covers.openlibrary.org/b/id/9363634-L.jpg"
+      },
+      {
+        "name": "Afro-Cuban Tales",
+        "author": "Lydia Cabrera",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/1514088-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "CYP",
+    "books": [
+      {
+        "name": "Famagusta: the Story of the City",
+        "author": "Andreas Coutas (trans. Xenia Andreou)",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "A Watermelon a Fish and a Bible",
+        "author": "Christy Lefteri",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/7499312-L.jpg"
+      },
+      {
+        "name": "Gregory and other stories",
+        "author": "Panos Ioannides",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Magnette",
+        "author": "Elmos Konis",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/7098493-L.jpg"
+      },
+      {
+        "name": "Ledra Street",
+        "author": "Nora Nadjarian",
+        "year": 2006,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicosia%20Ledra%20street%20afternoon%20Republic%20of%20Cyprus.JPG"
+      }
+    ]
+  },
+  {
+    "iso": "CZE",
+    "books": [
+      {
+        "name": "Too Loud a Solitude",
+        "author": "Bohumil Hrabal",
+        "year": 1976,
+        "image": "https://covers.openlibrary.org/b/id/4022491-L.jpg"
+      },
+      {
+        "name": "The House on Prague Street",
+        "author": "Hana Demetz",
+        "year": 1980,
+        "image": null
+      },
+      {
+        "name": "Love Letter in Cuneiform Script",
+        "author": "Tomáš Zmeškal",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Engineer of Human Souls (trans. Paul Wilson)",
+        "author": "Josef Škvorecký",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Devil’s Workshop",
+        "author": "Jáchym Topol",
+        "year": 2013,
+        "image": "https://covers.openlibrary.org/b/id/10712515-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "DNK",
+    "books": [
+      {
+        "name": "Exile: Book One of the African Trilogy",
+        "author": "Jakob Ejersbo",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Dog Head",
+        "author": "Morten Ramsland",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Exception",
+        "author": "Christian Jungersen",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/243665-L.jpg"
+      },
+      {
+        "name": "Constanze Mozart",
+        "author": "Louise Bugge Laermann",
+        "year": 2002,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Constanze%20Mozart%20by%20Hanson%201802.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "DJI",
+    "books": [
+      {
+        "name": "In the United States of Africa",
+        "author": "Abdourahman Waberi",
+        "year": 2009,
+        "image": null
+      },
+      {
+        "name": "Passage of Tears",
+        "author": "Abdourahman Waberi",
+        "year": 2018,
+        "image": "https://covers.openlibrary.org/b/id/9240312-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "DMA",
+    "books": [
+      {
+        "name": "The Orchid House",
+        "author": "Phyllis Shand Allfrey",
+        "year": 1953,
+        "image": "https://covers.openlibrary.org/b/id/608911-L.jpg"
+      },
+      {
+        "name": "Black and White Sands",
+        "author": "Elma Napier",
+        "year": 2009,
+        "image": null
+      },
+      {
+        "name": "Wide Sargasso Sea",
+        "author": "Jean Rhys",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/9269373-L.jpg"
+      },
+      {
+        "name": "The Snake King of the Kalinago",
+        "author": "Pupils of Atkinson School",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Pharcel",
+        "author": "Alick Lazare",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/2531418-L.jpg"
+      },
+      {
+        "name": "Home Again",
+        "author": "Various authors",
+        "year": 2012,
+        "image": null
+      },
+      {
+        "name": "Most Wanted: street stories from the Caribbean",
+        "author": "Christborne Shillingford",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "DOM",
+    "books": [
+      {
+        "name": "Neguri’s Secret",
+        "author": "Arambilet",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Brief Wonderous Life of Oscar Wao",
+        "author": "Junot Diaz",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "When they Loved the Communal Land",
+        "author": "Pedro Mir",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "In the Time of the Butterflies",
+        "author": "Julia Alvarez",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/391881-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ECU",
+    "books": [
+      {
+        "name": "Huasipungo",
+        "author": "Jorge Icaza",
+        "year": 1934,
+        "image": "https://covers.openlibrary.org/b/id/4909406-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "EGY",
+    "books": [
+      {
+        "name": "The Map of Love",
+        "author": "Ahdaf Soueif",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/243759-L.jpg"
+      },
+      {
+        "name": "Cairo: My City",
+        "author": "Ahdaf Soueif",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Stealth",
+        "author": "Sonallah Ibrahim",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Moon Over Samarqand",
+        "author": "Mohamed Mansi Qandil",
+        "year": 2009,
+        "image": null
+      },
+      {
+        "name": "Beer in the Snooker Club",
+        "author": "Waguih Ghali",
+        "year": 1964,
+        "image": "https://covers.openlibrary.org/b/id/10342544-L.jpg"
+      },
+      {
+        "name": "Midaq Alley",
+        "author": "Naguib Mahfouz",
+        "year": 1947,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khan%20el%20khalili.jpg"
+      },
+      {
+        "name": "The Thief and the Dogs",
+        "author": "Naguib Mahfouz",
+        "year": 1961,
+        "image": "https://covers.openlibrary.org/b/id/14813965-L.jpg"
+      },
+      {
+        "name": "Miramar",
+        "author": "Naguib Mahfouz",
+        "year": 1984,
+        "image": "https://covers.openlibrary.org/b/id/14813965-L.jpg"
+      },
+      {
+        "name": "The Final Hour",
+        "author": "Naguib Mahfouz",
+        "year": 1971,
+        "image": null
+      },
+      {
+        "name": "The Yacoubian Building",
+        "author": "Alaa Al Aswany",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/1054711-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "SLV",
+    "books": [
+      {
+        "name": "Senselessness",
+        "author": "Horacio Castellanos Moya",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/2646446-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "GNQ",
+    "books": [
+      {
+        "name": "Shadows of your Black Memory",
+        "author": "Donato Ndongo",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/2722078-L.jpg"
+      },
+      {
+        "name": "Ekomo",
+        "author": "Maria Nsue Angue",
+        "year": 1985,
+        "image": "https://covers.openlibrary.org/b/id/14054278-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ERI",
+    "books": [
+      {
+        "name": "Heart of Fire",
+        "author": "Senait Mehari",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/3015985-L.jpg"
+      },
+      {
+        "name": "The Consequences of Love",
+        "author": "Sulaiman Addonia",
+        "year": 2004,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20conseguenze%20dell%27amore%20logo.svg"
+      }
+    ]
+  },
+  {
+    "iso": "EST",
+    "books": [
+      {
+        "name": "Professor Martens’ Departure",
+        "author": "Jaan Kross",
+        "year": 1994,
+        "image": "https://covers.openlibrary.org/b/id/804814-L.jpg"
+      },
+      {
+        "name": "Treading Air",
+        "author": "Jaan Kross",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/892264-L.jpg"
+      },
+      {
+        "name": "The Beauty of History",
+        "author": "Viivi Luik",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "ETH",
+    "books": [
+      {
+        "name": "Beneath the Lion’s Gaze",
+        "author": "Maaza Mengiste",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/6308135-L.jpg"
+      },
+      {
+        "name": "Children of the Revolution",
+        "author": "Dinaw Mengestu",
+        "year": 1996,
+        "image": "https://covers.openlibrary.org/b/id/8464238-L.jpg"
+      },
+      {
+        "name": "Cutting for Stone",
+        "author": "Abraham Verghese",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/8474220-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "FJI",
+    "books": [
+      {
+        "name": "Kava in the Blood",
+        "author": "Peter Thomson",
+        "year": 1999,
+        "image": null
+      },
+      {
+        "name": "Kisses in the Nederends",
+        "author": "Epeli Hau’ofa",
+        "year": 1995,
+        "image": "https://covers.openlibrary.org/b/id/626877-L.jpg"
+      },
+      {
+        "name": "Tales of the Tikongs",
+        "author": "Epeli Hau’ofa",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Of Baluka and Nibong Palm",
+        "author": "Mikaele M.K. Yasa",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "FIN",
+    "books": [
+      {
+        "name": "Paasilinna",
+        "author": "Arto",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/12124995-L.jpg"
+      },
+      {
+        "name": "The Egyptian",
+        "author": "Mika Waltari",
+        "year": 1945,
+        "image": "https://covers.openlibrary.org/b/id/777820-L.jpg"
+      },
+      {
+        "name": "Troll: A Love Story",
+        "author": "Johanna Sinisalo",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Purge",
+        "author": "Sofi Oksanen",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/11748187-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "FRA",
+    "books": [
+      {
+        "name": "The Wanderer",
+        "author": "Alain-Fournier",
+        "year": 1980,
+        "image": "https://covers.openlibrary.org/b/id/8038712-L.jpg"
+      },
+      {
+        "name": "Rosie Carpe",
+        "author": "Marie NDiaye",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/12208520-L.jpg"
+      },
+      {
+        "name": "My Phantom Husband",
+        "author": "Marie Darrieussecq",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/805079-L.jpg"
+      },
+      {
+        "name": "Chéri",
+        "author": "Colette",
+        "year": 1900,
+        "image": "https://covers.openlibrary.org/b/id/225120-L.jpg"
+      },
+      {
+        "name": "Dreams from the Endz",
+        "author": "Faiza Guene",
+        "year": 2011,
+        "image": null
+      },
+      {
+        "name": "Exercises in Style (trans. Barbara Wright)",
+        "author": "Raymond Queneau",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Life:a User’s Manual (trans. David Bellos",
+        "author": "Georges Perec",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Wandering Star",
+        "author": "Jean-Marie Gustave Le Clezio",
+        "year": 1992,
+        "image": null
+      },
+      {
+        "name": "Lightning",
+        "author": "Jean Echenoz",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/9699771-L.jpg"
+      },
+      {
+        "name": "Underground Time",
+        "author": "Delphine de Vigan",
+        "year": 2015,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "GAB",
+    "books": [
+      {
+        "name": "Mema",
+        "author": "Daniel Mengara",
+        "year": 2003,
+        "image": "https://covers.openlibrary.org/b/id/1227778-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "GMB",
+    "books": [
+      {
+        "name": "Reading the Ceiling",
+        "author": "Dayo Forster",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/10317069-L.jpg"
+      },
+      {
+        "name": "Folk Tales and Fables from The Gambia",
+        "author": "Dembo Fanta Bojang & Sukai Mbye Bojang",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "GEO",
+    "books": [
+      {
+        "name": "One More Year",
+        "author": "Sana Krasikov",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/2412126-L.jpg"
+      },
+      {
+        "name": "Contemporary Georgian Fiction",
+        "author": "ed Elizabeth Heighway",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "DEU",
+    "books": [
+      {
+        "name": "Visitation",
+        "author": "Jenny Erpenbeck",
+        "year": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Visitation%20avec%20Marie-Jacobie%20et%20Marie-Salom%C3%A9%20-%20Domenico%20Ghirlandaio%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20297%20%3B%20MR%20240.jpg"
+      },
+      {
+        "name": "The Lost Honour of Katharina Blum",
+        "author": "Heinrich Böll",
+        "year": 1975,
+        "image": null
+      },
+      {
+        "name": "Bridge of the Golden Horn",
+        "author": "Emine Sevgi Özdamar",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Illuminations (trans. Harry Zohn)",
+        "author": "Walter Benjamin",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "All the Lights",
+        "author": "Clemens Meyer",
+        "year": 2011,
+        "image": null
+      },
+      {
+        "name": "Medea",
+        "author": "Christa Wolf",
+        "year": 1996,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Medea%20go%20ara%20pacis%20mundi%201.jpg"
+      },
+      {
+        "name": "The car with the yellow star",
+        "author": "Franz Fühmann",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Shadow-Boxing Girl",
+        "author": "Inka Parei",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Alone in Berlin",
+        "author": "Hans Fallada",
+        "year": 2016,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Amsterdamer%20Str%2010%20%28Wedd%29%20Elise%20und%20Otto%20Hampel.jpg"
+      },
+      {
+        "name": "Jacob the Liar",
+        "author": "Jurek Becker",
+        "year": 2012,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "GHA",
+    "books": [
+      {
+        "name": "The Beautyful Ones Are Not Yet Born",
+        "author": "Ayi Kwei Armah",
+        "year": 1968,
+        "image": "https://covers.openlibrary.org/b/id/8182662-L.jpg"
+      },
+      {
+        "name": "Daughters of Africa",
+        "author": "Ama Ata Aidoo",
+        "year": 1992,
+        "image": null
+      },
+      {
+        "name": "Amanfi’s Gold",
+        "author": "Jo de Graft Hanson",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Journey",
+        "author": "Gheysika Adombire Agambila",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Anansi Stories",
+        "author": "Various authors",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "GRC",
+    "books": [
+      {
+        "name": "The Black Book of Bile",
+        "author": "Kostas Hatziantoniou",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Agrigento",
+        "author": "Kostas Hatziantoniou",
+        "year": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agrigento%204m1.jpg"
+      },
+      {
+        "name": "Kassandra and the Wolf",
+        "author": "Margarita Karapanou",
+        "year": 1978,
+        "image": null
+      },
+      {
+        "name": "Little Infamies",
+        "author": "Panos Karnezis",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/4301756-L.jpg"
+      },
+      {
+        "name": "Freedom or Death",
+        "author": "Nikos Kazantzakis",
+        "year": 1956,
+        "image": null
+      },
+      {
+        "name": "The Last Temptation",
+        "author": "Nikos Kazantzakis",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/13819425-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "GRD",
+    "books": [
+      {
+        "name": "The Ladies are Upstairs",
+        "author": "Merle Collins",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/12940698-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "GTM",
+    "books": [
+      {
+        "name": "The President",
+        "author": "Miguel Angel Asturias",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "El cojo bueno",
+        "author": "Rodrigo Rey Rosa",
+        "year": 1996,
+        "image": "https://covers.openlibrary.org/b/id/3719458-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "GIN",
+    "books": [
+      {
+        "name": "The Radiance of the King",
+        "author": "Camara Laye",
+        "year": 1954,
+        "image": null
+      },
+      {
+        "name": "The Guardian of the Word",
+        "author": "Camara Laye",
+        "year": 1980,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "GUY",
+    "books": [
+      {
+        "name": "Buxton Spice",
+        "author": "Oonya Kempadoo",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/917279-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "HTI",
+    "books": [
+      {
+        "name": "Children of Heroes",
+        "author": "Lyonel Trouillot",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/2639900-L.jpg"
+      },
+      {
+        "name": "How to Make Love to a Negro without Getting Tired",
+        "author": "Dany Laferriere",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "I am a Japanese Writer",
+        "author": "Dany Laferriere",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/7598635-L.jpg"
+      },
+      {
+        "name": "The Farming of the Bones",
+        "author": "Edwidge Danticat",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/8261190-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "HND",
+    "books": [
+      {
+        "name": "The dinosaur",
+        "author": "Augusto Monterroso",
+        "year": 1959,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "HUN",
+    "books": [
+      {
+        "name": "Embers",
+        "author": "Sándor Márai",
+        "year": 1942,
+        "image": null
+      },
+      {
+        "name": "Skylark",
+        "author": "Dezső Kosztolányi",
+        "year": 1996,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skylark%201.jpg"
+      },
+      {
+        "name": "Be Faithful Unto Death",
+        "author": "Zsigmond Móricz",
+        "year": 1920,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Legyjomindhalalig.jpg"
+      },
+      {
+        "name": "Journey by Moonlight",
+        "author": "Antal Szerb",
+        "year": 1937,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Covers%2045356.jpg"
+      },
+      {
+        "name": "Not Art",
+        "author": "Peter Esterharzy",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Under the Frog",
+        "author": "Tibor Fischer",
+        "year": 1992,
+        "image": "https://covers.openlibrary.org/b/id/178041-L.jpg"
+      },
+      {
+        "name": "The Pendragon Legend",
+        "author": "Antal Szerb",
+        "year": 1934,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pendragon.jpg"
+      },
+      {
+        "name": "War and War (trans. George Szirtes)",
+        "author": "László Krasznahorkai",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Metropole",
+        "author": "Ferenc Karinthy",
+        "year": 2008,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Metropole%20Venlo.jpg"
+      },
+      {
+        "name": "Fatelessness",
+        "author": "Imre Kertész",
+        "year": 1975,
+        "image": "https://covers.openlibrary.org/b/id/13819978-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ISL",
+    "books": [
+      {
+        "name": "Jar City",
+        "author": "Arnaldur Indridason",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/182033-L.jpg"
+      },
+      {
+        "name": "The Atom Station",
+        "author": "Halldór Laxness",
+        "year": 1948,
+        "image": "https://covers.openlibrary.org/b/id/14874463-L.jpg"
+      },
+      {
+        "name": "Stone Tree",
+        "author": "Gyrðir Eliasson",
+        "year": 2008,
+        "image": null
+      },
+      {
+        "name": "The Greenhouse",
+        "author": "Auður A Ólafsdóttir",
+        "year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/7947027-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "IND",
+    "books": [
+      {
+        "name": "Maximum City",
+        "author": "Suketu Mehta",
+        "year": 2004,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maximum%20city.png"
+      },
+      {
+        "name": "Family Matters",
+        "author": "Rohinton Mistry",
+        "year": 2001,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Family%20Matters%20house%20in%20Chicago%2C%202010.jpg"
+      },
+      {
+        "name": "A Fine Balance",
+        "author": "Rohinton Mistry",
+        "year": 1995,
+        "image": "https://covers.openlibrary.org/b/id/8348310-L.jpg"
+      },
+      {
+        "name": "Godaan",
+        "author": "Premchand",
+        "year": 1936,
+        "image": "https://covers.openlibrary.org/b/id/9388966-L.jpg"
+      },
+      {
+        "name": "The Sly Company of People who Care",
+        "author": "Rahul Bhattacharya",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/7470153-L.jpg"
+      },
+      {
+        "name": "River of Smoke",
+        "author": "Amitav Ghosh",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/7256813-L.jpg"
+      },
+      {
+        "name": "The Thing about Thugs",
+        "author": "Tabish Khair",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/9573713-L.jpg"
+      },
+      {
+        "name": "A Free Man",
+        "author": "Aman Sathi",
+        "year": 1973,
+        "image": null
+      },
+      {
+        "name": "Great Barrington Declaration",
+        "author": "Sunetra Gupta",
+        "year": 2020,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Barrington%20Declaration.pdf"
+      },
+      {
+        "name": "Jimmy the Terrorist",
+        "author": "Omair Ahmad",
+        "year": 2010,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "IDN",
+    "books": [
+      {
+        "name": "Durga Umayi",
+        "author": "Yusuf Bilyarta Mangunwijaya",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Saman",
+        "author": "Ayu Utami",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/1054753-L.jpg"
+      },
+      {
+        "name": "Earth of Mankind",
+        "author": "Pramoedya Ananta Toer",
+        "year": 1980,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "IRN",
+    "books": [
+      {
+        "name": "Parpin Flowers",
+        "author": "Akbar Golrang",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/2777286-L.jpg"
+      },
+      {
+        "name": "We are Iran",
+        "author": "Nasrin Alavi",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/961681-L.jpg"
+      },
+      {
+        "name": "Touba and the Meaning of Night",
+        "author": "Shahrnush Parsipur",
+        "year": 1989,
+        "image": "https://covers.openlibrary.org/b/id/1881683-L.jpg"
+      },
+      {
+        "name": "The Colonel (trans. Tom Patterdale)",
+        "author": "Mahmoud Dowlatabadi",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "IRQ",
+    "books": [
+      {
+        "name": "An Iraqi in Paris",
+        "author": "Samuel Shimon",
+        "year": 2003,
+        "image": "https://covers.openlibrary.org/b/id/724216-L.jpg"
+      },
+      {
+        "name": "The Tobacco Keeper",
+        "author": "Ali Bader",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/9095143-L.jpg"
+      },
+      {
+        "name": "The Madman of Freedom Square",
+        "author": "Hassan Blasim",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/8598037-L.jpg"
+      },
+      {
+        "name": "Thirsty River",
+        "author": "Rodaan Al Galidi",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Sheikh’s Detective",
+        "author": "A Alwan",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Long Way Back",
+        "author": "Fuad al-Takarli",
+        "year": 1961,
+        "image": "https://covers.openlibrary.org/b/id/2297592-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "IRL",
+    "books": [
+      {
+        "name": "Castle Rackrent",
+        "author": "Maria Edgeworth",
+        "year": 1800,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Castle%20Rackrent%201800%20Title%20Page.png"
+      },
+      {
+        "name": "The Story of Lucy Gault",
+        "author": "William Trevor",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/8260682-L.jpg"
+      },
+      {
+        "name": "The Secret Scripture",
+        "author": "Sebastian Barry",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/6968893-L.jpg"
+      },
+      {
+        "name": "The Third Policeman",
+        "author": "Flann O’Brien",
+        "year": 1967,
+        "image": "https://covers.openlibrary.org/b/id/296165-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ISR",
+    "books": [
+      {
+        "name": "Falling Out of Time",
+        "author": "David Grossman",
+        "year": 2014,
+        "image": "https://covers.openlibrary.org/b/id/10323821-L.jpg"
+      },
+      {
+        "name": "To the End of the Land",
+        "author": "David Grossman",
+        "year": 2008,
+        "image": null
+      },
+      {
+        "name": "A Tale of Love and Darkness (trans. Nicholas de Lange)",
+        "author": "Amos Oz",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Blooms of Darkness",
+        "author": "Aharon Appelfeld",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/6712120-L.jpg"
+      },
+      {
+        "name": "The Falafel King is Dead",
+        "author": "Sara Shilo",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/10346329-L.jpg"
+      },
+      {
+        "name": "Missing Kissinger",
+        "author": "Etgar Keret",
+        "year": 1994,
+        "image": "https://covers.openlibrary.org/b/id/447660-L.jpg"
+      },
+      {
+        "name": "Heart Murmur",
+        "author": "Yehoshua Kenaz",
+        "year": 1986,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "ITA",
+    "books": [
+      {
+        "name": "Gomorrah",
+        "author": "Roberto Saviano",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/1188438-L.jpg"
+      },
+      {
+        "name": "The Day of the Owl (trans. Archibald Colquhoun)",
+        "author": "Leonardo Sciascia",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "In the Sea there are Crocodiles (trans. Howard Curtis)",
+        "author": "Fabio Geda",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Lost Daughter",
+        "author": "Elena Ferrante",
+        "year": 2021,
+        "image": null
+      },
+      {
+        "name": "Pereira Maintains",
+        "author": "Antonio Tabucchi",
+        "year": 1994,
+        "image": null
+      },
+      {
+        "name": "New Finnish Grammar",
+        "author": "Diego Marani",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/7314265-L.jpg"
+      },
+      {
+        "name": "Ocean Sea",
+        "author": "Alessandro Baricco",
+        "year": 1993,
+        "image": null
+      },
+      {
+        "name": "Mr Gwyn",
+        "author": "Alessandro Baricco",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/12728829-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "JAM",
+    "books": [
+      {
+        "name": "Augustown",
+        "author": "Kei Miller",
+        "year": 2016,
+        "image": "https://covers.openlibrary.org/b/id/10841145-L.jpg"
+      },
+      {
+        "name": "Song for Mumu",
+        "author": "Lindsay Barrett",
+        "year": 1967,
+        "image": "https://covers.openlibrary.org/b/id/8058000-L.jpg"
+      },
+      {
+        "name": "The Pirate’s Daughter",
+        "author": "Margaret Cezair-Thompson",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/2127850-L.jpg"
+      },
+      {
+        "name": "Paint the Town Red",
+        "author": "Brian Meeks",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/3041695-L.jpg"
+      },
+      {
+        "name": "New Day",
+        "author": "Victor Stafford Reid",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/12822173-L.jpg"
+      },
+      {
+        "name": "John Crow’s Devil",
+        "author": "Marlon James",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/936349-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "JPN",
+    "books": [
+      {
+        "name": "Kafka on the Shore",
+        "author": "Haruki Murakami",
+        "year": 2002,
+        "image": null
+      },
+      {
+        "name": "1Q84",
+        "author": "Haruki Murakami",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/11153243-L.jpg"
+      },
+      {
+        "name": "The Miner",
+        "author": "Natsume Sōseki",
+        "year": 1908,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Copertina%20%27Il%20minatore%27.png"
+      },
+      {
+        "name": "I am a Cat",
+        "author": "Natsume Sōseki",
+        "year": 2017,
+        "image": null
+      },
+      {
+        "name": "The Kagero Diary (trans. Sonja Arntzen)",
+        "author": "Michitsuna no Haha (Michitsuna’s mother)",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Death in Midsummer (trans. Seidensticker",
+        "author": "Yukio Mishima",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Housekeeper and the Professor",
+        "author": "Yoko Ogawa",
+        "year": 2003,
+        "image": null
+      },
+      {
+        "name": "Party",
+        "author": "Yumiko Kurahashi",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Last Children of Tokyo",
+        "author": "Yoko Tawada",
+        "year": 2014,
+        "image": "https://covers.openlibrary.org/b/id/8537643-L.jpg"
+      },
+      {
+        "name": "Snow Country",
+        "author": "Yasunari Kawabata",
+        "year": 1935,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Matsuei.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "JOR",
+    "books": [
+      {
+        "name": "The Time of White Horses",
+        "author": "Ibrahim Nasrallah",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "KAZ",
+    "books": [
+      {
+        "name": "The Day the World Collapsed",
+        "author": "Rollan Seisenbayev",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Silent Steppe: The Story of a Kazakh Nomad Under Stalin",
+        "author": "Mukhamet Shayakhmetov",
+        "year": 2006,
+        "image": null
+      },
+      {
+        "name": "My Life My Times and the Future",
+        "author": "Nursultan Nazarbayev",
+        "year": 1998,
+        "image": null
+      },
+      {
+        "name": "Nomads",
+        "author": "Ilyas Esenberlin",
+        "year": 1986,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "KEN",
+    "books": [
+      {
+        "name": "One Day I Will Write About This Place",
+        "author": "Binyavanga Wainaina",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/9826987-L.jpg"
+      },
+      {
+        "name": "A Grain of Wheat",
+        "author": "Ngũgĩ wa Thiong’o",
+        "year": 1967,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Grain%20of%20Wheat.jpg"
+      },
+      {
+        "name": "Wizard of the Crow",
+        "author": "Ngũgĩ wa Thiong’o",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/14345425-L.jpg"
+      },
+      {
+        "name": "Kenya Will You Marry Me?",
+        "author": "Philo Ikonya",
+        "year": 2011,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "KIR",
+    "books": [
+      {
+        "name": "Waa in Storms",
+        "author": "Teweiariki Teaero",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/13338413-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "KWT",
+    "books": [
+      {
+        "name": "Pearling in the Arabian Gulf",
+        "author": "Saif Marzooq al-Shamlan",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/4847715-L.jpg"
+      },
+      {
+        "name": "Invasion Kuwait",
+        "author": "Jehan S Rajab",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/2042128-L.jpg"
+      },
+      {
+        "name": "Women in Kuwait",
+        "author": "Haya al-Mughni",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/1609320-L.jpg"
+      },
+      {
+        "name": "The Chronicles of Dathra a Dowdy Girl from Kuwait",
+        "author": "Danderma",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "KGZ",
+    "books": [
+      {
+        "name": "Jamilia",
+        "author": "Chinghiz Aitmatov",
+        "year": 1958,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KG%20Ag%20Dzhamila%20a.jpg"
+      },
+      {
+        "name": "The Place of the Skull",
+        "author": "Chinghiz Aitmatov",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LVA",
+    "books": [
+      {
+        "name": "The Free World",
+        "author": "David Bezmozgis",
+        "year": 2016,
+        "image": "https://covers.openlibrary.org/b/id/7932628-L.jpg"
+      },
+      {
+        "name": "A Woman in Amber",
+        "author": "Agate Nesaule",
+        "year": 1995,
+        "image": null
+      },
+      {
+        "name": "A Solace for Adam’s Tree",
+        "author": "Inga Zolude",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "With Dance Shoes in Siberian Snows",
+        "author": "Sandra Kalniete",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LBN",
+    "books": [
+      {
+        "name": "I Killed Scheherazade",
+        "author": "Joumana Haddad",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/9004470-L.jpg"
+      },
+      {
+        "name": "Yalo",
+        "author": "Elias Khoury",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/10824958-L.jpg"
+      },
+      {
+        "name": "Gate of the Sun",
+        "author": "Elias Khoury",
+        "year": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bol-tihuanaco-sonnentor.jpg"
+      },
+      {
+        "name": "One Thousand and One Nights",
+        "author": "Hanan al-Shaykh",
+        "year": 2011,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sughrat.jpg"
+      },
+      {
+        "name": "The Locust and the Bird",
+        "author": "Hanan al-Shaykh",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/7167491-L.jpg"
+      },
+      {
+        "name": "June Rain",
+        "author": "Jabbour Douhaiy",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Always Coca-Cola",
+        "author": "Alexandra Chreiteh",
+        "year": 2011,
+        "image": null
+      },
+      {
+        "name": "Wild Mulberries",
+        "author": "Iman Humaydan",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/10339112-L.jpg"
+      },
+      {
+        "name": "Samarkand",
+        "author": "Amin Maalouf",
+        "year": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sherdor%20madrasah%203.jpg"
+      },
+      {
+        "name": "Leo the African",
+        "author": "Amin Maalouf",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LSO",
+    "books": [
+      {
+        "name": "Chaka",
+        "author": "Thomas Mofolo",
+        "year": 1931,
+        "image": "https://covers.openlibrary.org/b/id/275065-L.jpg"
+      },
+      {
+        "name": "Blanket Boy’s Moon",
+        "author": "AS Mopeli-Paulus",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The World and the Cattle",
+        "author": "AS Mopeli-Paulus",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "How We Buried Puso",
+        "author": "Morabo Morojele",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/2982843-L.jpg"
+      },
+      {
+        "name": "Basali! Stories by and about women in Lesotho",
+        "author": "Various authors",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LBR",
+    "books": [
+      {
+        "name": "The House at Sugar Beach",
+        "author": "Helene Cooper",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/2579664-L.jpg"
+      },
+      {
+        "name": "This Child Will Be Great",
+        "author": "Ellen Johnson Sirleaf",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/9289351-L.jpg"
+      },
+      {
+        "name": "Konkai: Living Between Two Worlds",
+        "author": "Mardia Stone",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LBY",
+    "books": [
+      {
+        "name": "In the Country of Men",
+        "author": "Hisham Matar",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/1474561-L.jpg"
+      },
+      {
+        "name": "Anatomy of a Disappearance",
+        "author": "Hisham Matar",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/10407519-L.jpg"
+      },
+      {
+        "name": "Anubius: A Desert Novel",
+        "author": "Ibrahim Al-Khoni",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Gold Dust",
+        "author": "Ibrahim Al-Khoni",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Animists",
+        "author": "Ibrahim Al-Khoni",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Bleeding of the Stone",
+        "author": "Ibrahim Al-Khoni",
+        "year": 1990,
+        "image": null
+      },
+      {
+        "name": "The Puppet",
+        "author": "Ibrahim Al-Khoni",
+        "year": 1980,
+        "image": null
+      },
+      {
+        "name": "The Seven Veils of Seth",
+        "author": "Ibrahim Al-Khoni",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Homeless Rats",
+        "author": "Ahmed Fagi",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "30 Short Stories",
+        "author": "Ahmed Fagi",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LIE",
+    "books": [
+      {
+        "name": "Seven Years in Tibet",
+        "author": "Heinrich Harrer",
+        "year": 1952,
+        "image": "https://covers.openlibrary.org/b/id/3737876-L.jpg"
+      },
+      {
+        "name": "The Noble Forger",
+        "author": "CC Bergius",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LTU",
+    "books": [
+      {
+        "name": "No Men No Cry (‘Collective Series’)",
+        "author": "Various authors",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Vilnius Poker",
+        "author": "Ricardas Gavelis",
+        "year": 2014,
+        "image": "https://covers.openlibrary.org/b/id/12466202-L.jpg"
+      },
+      {
+        "name": "Hour of the Wolf",
+        "author": "Andrius Tapinas",
+        "year": 1968,
+        "image": null
+      },
+      {
+        "name": "Forest of the Gods",
+        "author": "Balys Sruoga",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/5490296-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "LUX",
+    "books": [
+      {
+        "name": "Minute Stories",
+        "author": "Robi Gottlieb-Cahen",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MDG",
+    "books": [
+      {
+        "name": "Voices from Madagascar",
+        "author": "ed. Jacques Bourgeacq and Liliane Ramarosoa",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MWI",
+    "books": [
+      {
+        "name": "The Jive Talker",
+        "author": "Samson Kambalu",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/5502336-L.jpg"
+      },
+      {
+        "name": "No Easy Task",
+        "author": "Aubrey Kachingwe",
+        "year": 1966,
+        "image": "https://covers.openlibrary.org/b/id/9569869-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "MYS",
+    "books": [
+      {
+        "name": "Ripples and Other Stories",
+        "author": "Shih-Li Kow",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/13984512-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "MDV",
+    "books": [
+      {
+        "name": "Dhon Hiyala and Ali Fulhu",
+        "author": "Abdullah Sadiq",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MLI",
+    "books": [
+      {
+        "name": "The Strange Destiny of Wangrin",
+        "author": "Amadou Hampâté Bâ",
+        "year": 1973,
+        "image": null
+      },
+      {
+        "name": "Bound to Violence",
+        "author": "Yambo Ouloguem",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MLT",
+    "books": [
+      {
+        "name": "Happy Weekend",
+        "author": "Immanuel Mifsud",
+        "year": 2006,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MHL",
+    "books": [
+      {
+        "name": "Marshall Islands Legends and Stories",
+        "author": "Ed Daniel Kelin",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Important Book about Majuro",
+        "author": "Marshallese school students (the Unbound Bookmaker Project)",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "For the Good of Mankind",
+        "author": "Jack Niedenthal",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/1055578-L.jpg"
+      },
+      {
+        "name": "In Melal: A Novel of the Pacific",
+        "author": "Bob Barclay",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Bwebwenatoon etto: a collection of Marshallese legends and traditions",
+        "author": "Dirk R Spennemann",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MRT",
+    "books": [
+      {
+        "name": "Angels of Mauritania and the Curse of the Language",
+        "author": "Mohamed Bouya Bamba",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MUS",
+    "books": [
+      {
+        "name": "Watch Them Go Down",
+        "author": "Anand Mulloo",
+        "year": 1967,
+        "image": null
+      },
+      {
+        "name": "Benares",
+        "author": "Barlen Pyamootoo",
+        "year": 2004,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MEX",
+    "books": [
+      {
+        "name": "Down the Rabbit Hole",
+        "author": "Juan Pablo Villalobos",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/12196634-L.jpg"
+      },
+      {
+        "name": "The Labyrinth of Solitude (trans. Lysander Kemp)",
+        "author": "Octavio Paz",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Like Water for Chocolate (trans. Carol Christensen and Thomas Christensen)",
+        "author": "Laura Esquivel",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Black Minutes",
+        "author": "Martín Solares",
+        "year": 2021,
+        "image": "https://covers.openlibrary.org/b/id/8247159-L.jpg"
+      },
+      {
+        "name": "The Death of Artemio Cruz",
+        "author": "Carlos Fuentes",
+        "year": 1962,
+        "image": "https://covers.openlibrary.org/b/id/14942075-L.jpg"
+      },
+      {
+        "name": "In Search of Klingsor",
+        "author": "Jorge Volpi",
+        "year": 2003,
+        "image": "https://covers.openlibrary.org/b/id/885078-L.jpg"
+      },
+      {
+        "name": "The Nine Guardians",
+        "author": "Rosario Castellanos",
+        "year": 1957,
+        "image": null
+      },
+      {
+        "name": "The House on Mango Street",
+        "author": "Sandra Cisneros",
+        "year": 1983,
+        "image": "https://covers.openlibrary.org/b/id/8804569-L.jpg"
+      },
+      {
+        "name": "Pedro Páramo",
+        "author": "Juan Rulfo",
+        "year": 1956,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20P%C3%A1ramo.jpg"
+      },
+      {
+        "name": "La noche de Tlatelolco",
+        "author": "Elena Poniatowska",
+        "year": 1971,
+        "image": "https://covers.openlibrary.org/b/id/1054023-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "MCO",
+    "books": [
+      {
+        "name": "Grace Kelly: Princesse du Cinema",
+        "author": "ed. Richard and Danae Projetti",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MNG",
+    "books": [
+      {
+        "name": "The Blue Sky",
+        "author": "Galsan Tschinag",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MNE",
+    "books": [
+      {
+        "name": "The Mountain Wreath",
+        "author": "Petar II Petrović-Njegoš",
+        "year": 1847,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gorski%20Vijenac.jpg"
+      },
+      {
+        "name": "A Lullaby for No Man’s Wolf",
+        "author": "Xenia Popovich",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MAR",
+    "books": [
+      {
+        "name": "Heirs to the Past",
+        "author": "Diss Chraïbi",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Le Passé Simple (The Simple Past)",
+        "author": "Diss Chraïbi",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Sacred Night",
+        "author": "Tahar Ben Jelloun",
+        "year": 1987,
+        "image": "https://covers.openlibrary.org/b/id/4064791-L.jpg"
+      },
+      {
+        "name": "This Blinding Absence of Light (trans. Linda Coverdale)",
+        "author": "Tahar Ben Jelloun",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "A Palace in the Old Village (trans. Linda Coverdale)",
+        "author": "Tahar Ben Jelloun",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Polymath",
+        "author": "Bensalem Himmich",
+        "year": 2018,
+        "image": null
+      },
+      {
+        "name": "The Arch and the Butterfly",
+        "author": "Mohammed Achaari",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/7670119-L.jpg"
+      },
+      {
+        "name": "For Bread Alone",
+        "author": "Muhammad Shukri",
+        "year": 1973,
+        "image": null
+      },
+      {
+        "name": "The Game of Forgetting",
+        "author": "Muhammad Barrada",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MOZ",
+    "books": [
+      {
+        "name": "The Sleepwalking Land",
+        "author": "Mia Couto",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Under the Frangipani",
+        "author": "Mia Couto",
+        "year": 2008,
+        "image": null
+      },
+      {
+        "name": "Niketche",
+        "author": "Paulina Chiziane",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/6980104-L.jpg"
+      },
+      {
+        "name": "Ualalapi",
+        "author": "Ungulani Ba Ka Khosa",
+        "year": 1987,
+        "image": null
+      },
+      {
+        "name": "We Killed Mangy Dog",
+        "author": "Luis Bernardo Honwana",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "MMR",
+    "books": [
+      {
+        "name": "Smile as they Bow",
+        "author": "Nu Nu Yi Inwa",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "NAM",
+    "books": [
+      {
+        "name": "Troubled Waters",
+        "author": "Joseph Diescho",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/13254396-L.jpg"
+      },
+      {
+        "name": "The Purple Violet of Oshaantu",
+        "author": "Neshani Andreas",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/2419335-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "NRU",
+    "books": [
+      {
+        "name": "Legends Traditions and Tales of Nauru",
+        "author": "Timothy Detudamo",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Stories from Nauru",
+        "author": "Ben Bam Solomon et al",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "NPL",
+    "books": [
+      {
+        "name": "Buddha’s Orphans",
+        "author": "Samrat Upadhyay",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/9085316-L.jpg"
+      },
+      {
+        "name": "The Lazy Conman and Other Stories",
+        "author": "Ajit Baral",
+        "year": 2009,
+        "image": null
+      },
+      {
+        "name": "Blue Mimosa",
+        "author": "Parijat",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "NLD",
+    "books": [
+      {
+        "name": "The Discovery of Heaven",
+        "author": "Harry Mulisch",
+        "year": 1992,
+        "image": null
+      },
+      {
+        "name": "Lost Paradise",
+        "author": "Cees Noteboom",
+        "year": 1990,
+        "image": null
+      },
+      {
+        "name": "The Twins",
+        "author": "Tessa de Loo",
+        "year": 2000,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Twins%202011.jpg"
+      },
+      {
+        "name": "The Twin",
+        "author": "Gerbrand Bakker",
+        "year": 1984,
+        "image": "https://covers.openlibrary.org/b/id/6299876-L.jpg"
+      },
+      {
+        "name": "The House of the Mosque",
+        "author": "Kader Abdolah",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/9657899-L.jpg"
+      },
+      {
+        "name": "Tomorrow Pamplona",
+        "author": "Jan van Mersbergen",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/7457002-L.jpg"
+      },
+      {
+        "name": "The Two Hearts of Kwasi Boachi",
+        "author": "Arthur Japin",
+        "year": 1996,
+        "image": null
+      },
+      {
+        "name": "Little Caesar",
+        "author": "Tommy Wieringa",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/8280462-L.jpg"
+      },
+      {
+        "name": "Out of Mind",
+        "author": "Bernlef",
+        "year": 1999,
+        "image": null
+      },
+      {
+        "name": "Turkish Delight",
+        "author": "Jan Wolkers",
+        "year": 1973,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rutger%20Hauer%20en%20Monique%20van%20de%20Ven%20%281972%29.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "NZL",
+    "books": [
+      {
+        "name": "Singularity",
+        "author": "Charlotte Grimshaw",
+        "year": 2013,
+        "image": "https://covers.openlibrary.org/b/id/6298579-L.jpg"
+      },
+      {
+        "name": "Season of the Jew",
+        "author": "Maurice Shadbolt",
+        "year": 1987,
+        "image": "https://covers.openlibrary.org/b/id/4068232-L.jpg"
+      },
+      {
+        "name": "The Bone People",
+        "author": "Keri Hulme",
+        "year": 1984,
+        "image": "https://covers.openlibrary.org/b/id/3080172-L.jpg"
+      },
+      {
+        "name": "Mr. Pip",
+        "author": "Lloyd Jones",
+        "year": 2012,
+        "image": null
+      },
+      {
+        "name": "Once Were Warriors",
+        "author": "Alan Duff",
+        "year": 1994,
+        "image": "https://covers.openlibrary.org/b/id/4662202-L.jpg"
+      },
+      {
+        "name": "Tangi",
+        "author": "Witi Ihimaera",
+        "year": 1973,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B0%D1%8C%D0%BD%D0%B3%D0%B0%20%D0%9C%D0%B0%D1%80%D1%82%D0%B0%20%D1%87%D1%83%20%D0%BA%D1%85%D0%B5%D1%82%D1%82%D0%B0%20%D0%BC%D0%B5%D1%82%D1%82%D0%B8%D0%B3%20%28cropped%29.jpg"
+      },
+      {
+        "name": "An Angel At My Table",
+        "author": "Janet Frame",
+        "year": 1984,
+        "image": "https://covers.openlibrary.org/b/id/448124-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "NIC",
+    "books": [
+      {
+        "name": "Infinity in the Palm of her Hand",
+        "author": "Gioconda Belli",
+        "year": 2009,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "NER",
+    "books": [
+      {
+        "name": "The Epic of Askia Mohammed",
+        "author": "recounted by Nouhou Malio",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "NGA",
+    "books": [
+      {
+        "name": "The Interpreters",
+        "author": "Wole Soyinka",
+        "year": 1965,
+        "image": "https://covers.openlibrary.org/b/id/275043-L.jpg"
+      },
+      {
+        "name": "Season of Anomy",
+        "author": "Wole Soyinka",
+        "year": 1973,
+        "image": "https://covers.openlibrary.org/b/id/10883051-L.jpg"
+      },
+      {
+        "name": "A Mouth Sweeter than Salt",
+        "author": "Toyin Falola",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/307783-L.jpg"
+      },
+      {
+        "name": "The Secret Lives of Baba Segi’s Wives",
+        "author": "Lola Shoneyin",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "Americanah",
+        "author": "Chimamanda Ngozi Adichie",
+        "year": 2013,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Americanah%20book%20cover.jpg"
+      },
+      {
+        "name": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "year": 1958,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Things%20Fall%20Apart%20books%2002.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "PRK",
+    "books": [
+      {
+        "name": "My Life and Faith",
+        "author": "Ri In Mo",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "NOR",
+    "books": [
+      {
+        "name": "My Struggle",
+        "author": "Karl Ove Knausgaard",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/9159180-L.jpg"
+      },
+      {
+        "name": "To Siberia",
+        "author": "Per Petterson",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/9398925-L.jpg"
+      },
+      {
+        "name": "Out Stealing Horses (trans. Ann Born)",
+        "author": "Per Petterson",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Hunger",
+        "author": "Knut Hamsun",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/14634050-L.jpg"
+      },
+      {
+        "name": "The Half Brother",
+        "author": "Lars Saabye Christensen",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/6938463-L.jpg"
+      },
+      {
+        "name": "The Naked Madonna",
+        "author": "Jan Wiese",
+        "year": 1995,
+        "image": "https://covers.openlibrary.org/b/id/9685703-L.jpg"
+      },
+      {
+        "name": "Before You Sleep",
+        "author": "Linn Ullmann",
+        "year": 1900,
+        "image": "https://covers.openlibrary.org/b/id/9331973-L.jpg"
+      },
+      {
+        "name": "Lasso Round the Moon",
+        "author": "Agnar Mykle",
+        "year": 1960,
+        "image": null
+      },
+      {
+        "name": "Egalia’s Daughters",
+        "author": "Gerd Brantenberg",
+        "year": 1977,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "OMN",
+    "books": [
+      {
+        "name": "Smiles of Saints",
+        "author": "Ibrahim Farghali",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/3356879-L.jpg"
+      },
+      {
+        "name": "My Grandmother’s Stories",
+        "author": "Khadija bint Alawi Al-Dhahab",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Behind the Veil in Arabia: Women in Oman",
+        "author": "Unni Wikan",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Earth Weeps Saturn Laughs",
+        "author": "Abdulaziz Al Farsi",
+        "year": 2013,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "PAK",
+    "books": [
+      {
+        "name": "Moth Smoke",
+        "author": "Mohsin Hamid",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/3190330-L.jpg"
+      },
+      {
+        "name": "The Reluctant Fundamentalist",
+        "author": "Mohsin Hamid",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/2010955-L.jpg"
+      },
+      {
+        "name": "Meatless Days",
+        "author": "Sara Suleri",
+        "year": 1989,
+        "image": "https://covers.openlibrary.org/b/id/143199-L.jpg"
+      },
+      {
+        "name": "Ice Candy Man",
+        "author": "Bapsi Sidhwa",
+        "year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/1003279-L.jpg"
+      },
+      {
+        "name": "An American Brat",
+        "author": "Bapsi Sidhwa",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/3939853-L.jpg"
+      },
+      {
+        "name": "The Pakistani Bride",
+        "author": "Bapsi Sidhwa",
+        "year": 1983,
+        "image": null
+      },
+      {
+        "name": "A Season for Martyrs",
+        "author": "Bina Shah",
+        "year": 2014,
+        "image": "https://covers.openlibrary.org/b/id/10566947-L.jpg"
+      },
+      {
+        "name": "Slum Child",
+        "author": "Bina Shah",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/13791579-L.jpg"
+      },
+      {
+        "name": "The Wandering Falcon",
+        "author": "Jamil Ahmad",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/9513225-L.jpg"
+      },
+      {
+        "name": "In Other Rooms Other Wonders",
+        "author": "Daniyal Mueenuddin",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/8258631-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "PLW",
+    "books": [
+      {
+        "name": "Spirits’ Tides",
+        "author": "Susan Kloulechad",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "PSE",
+    "books": [
+      {
+        "name": "Tasting the Sky: A Palestinian Childhood",
+        "author": "Ibtisam Barakat",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Wild Thorns",
+        "author": "Sahar Khalifeh",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/807068-L.jpg"
+      },
+      {
+        "name": "Mornings in Jenin",
+        "author": "Susan Abulhawa",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/6935052-L.jpg"
+      },
+      {
+        "name": "Mordechai’s Moustache and his Wife’s Cats",
+        "author": "Mahmoud Shukair",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "PAN",
+    "books": [
+      {
+        "name": "The Golden Horse",
+        "author": "Juan David Morgan",
+        "year": 2014,
+        "image": "https://covers.openlibrary.org/b/id/8988925-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "PNG",
+    "books": [
+      {
+        "name": "Maiba",
+        "author": "Russell Soaba",
+        "year": 1985,
+        "image": "https://covers.openlibrary.org/b/id/7972147-L.jpg"
+      },
+      {
+        "name": "Posa",
+        "author": "Regis Stella Gutsini",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Two Seasons",
+        "author": "Bernard Narokobi",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/4318815-L.jpg"
+      },
+      {
+        "name": "The Crocodile",
+        "author": "Vincent Eri",
+        "year": 1865,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A4%D1%91%D0%B4%D0%BE%D1%80.%20%D0%9A%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB.%20%D0%A2%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B8%D1%81%D1%82%20%281866%29.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "PRY",
+    "books": [
+      {
+        "name": "The Prosecutor",
+        "author": "Augusto Roa Bastos",
+        "year": 1965,
+        "image": "https://covers.openlibrary.org/b/id/9212016-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "PER",
+    "books": [
+      {
+        "name": "Death in the Andes",
+        "author": "Mario Vargas Llosa",
+        "year": 1993,
+        "image": null
+      },
+      {
+        "name": "Aunt Julia and the Scriptwriter (trans. Ursule Molinaro",
+        "author": "Mario Vargas Llosa",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Deep Rivers",
+        "author": "José María Arguedas",
+        "year": 1958,
+        "image": "https://covers.openlibrary.org/b/id/833430-L.jpg"
+      },
+      {
+        "name": "Red April",
+        "author": "Santiago Roncagliolo",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/10319496-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "PHL",
+    "books": [
+      {
+        "name": "Illustrado",
+        "author": "Miguel Syjuco",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Dogeaters",
+        "author": "Jessica Hagedorn",
+        "year": 1990,
+        "image": "https://covers.openlibrary.org/b/id/95910-L.jpg"
+      },
+      {
+        "name": "The Umbrella Country",
+        "author": "Bino Realuyo",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/2404953-L.jpg"
+      },
+      {
+        "name": "State of War",
+        "author": "Ninotchka Rosca",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/13221695-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "POL",
+    "books": [
+      {
+        "name": "Primeval and Other Times",
+        "author": "Olga Tokarczuk",
+        "year": 1996,
+        "image": null
+      },
+      {
+        "name": "House of Day House of Night",
+        "author": "Olga Tokarczuk",
+        "year": 2025,
+        "image": null
+      },
+      {
+        "name": "Cold Sea Tales",
+        "author": "Pawel Huelle",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Castorp",
+        "author": "Pawel Huelle",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/2045798-L.jpg"
+      },
+      {
+        "name": "The Last Supper",
+        "author": "Pawel Huelle",
+        "year": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agnolo%20Gaddi%20-%20The%20Last%20Supper%20-%20WGA08373.jpg"
+      },
+      {
+        "name": "Mercedes Benz",
+        "author": "Pawel Huelle",
+        "year": 1970,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes-Benz%20600%20Pullman%20%285756476558%29.jpg"
+      },
+      {
+        "name": "On the Road to Babadag",
+        "author": "Andrzej Stasiuk",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/10277294-L.jpg"
+      },
+      {
+        "name": "Dukla",
+        "author": "Andrzej Stasiuk",
+        "year": 2011,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dukla%20-%20pa%C5%82ac.jpg"
+      },
+      {
+        "name": "Fado",
+        "author": "Andrzej Stasiuk",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/6372673-L.jpg"
+      },
+      {
+        "name": "Nine",
+        "author": "Andrzej Stasiuk",
+        "year": 2005,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HAUNTING%20MUMBLE%20RAPPERS%20AT%20NIGHT%21.png"
+      }
+    ]
+  },
+  {
+    "iso": "PRT",
+    "books": [
+      {
+        "name": "The Mandarin and Other Stories",
+        "author": "Eca de Queiroz",
+        "year": 1965,
+        "image": null
+      },
+      {
+        "name": "Blindness",
+        "author": "José Saramago",
+        "year": 1999,
+        "image": null
+      },
+      {
+        "name": "The Year of the Death of Ricardo Reis",
+        "author": "José Saramago",
+        "year": 1984,
+        "image": "https://covers.openlibrary.org/b/id/8260589-L.jpg"
+      },
+      {
+        "name": "The Gospel According to Jesus Christ",
+        "author": "José Saramago",
+        "year": 1991,
+        "image": "https://covers.openlibrary.org/b/id/5361795-L.jpg"
+      },
+      {
+        "name": "The Book of Disquiet",
+        "author": "Fernando Pessoa",
+        "year": 1982,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LdoD%201ed.jpg"
+      },
+      {
+        "name": "Carta de Pêro Vaz de Caminha",
+        "author": "Pero Vaz de Caminha",
+        "year": 2022,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "QAT",
+    "books": [
+      {
+        "name": "Victory over Abu Derya: The Quest for Pearls in the Arabian Gulf",
+        "author": "Mohammed Ali",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Corsair",
+        "author": "Abdul Aziz Al Mahmoud",
+        "year": 1814,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Corsair%201st%20ed.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ROU",
+    "books": [
+      {
+        "name": "The Passport",
+        "author": "Herta Müller",
+        "year": 1986,
+        "image": "https://covers.openlibrary.org/b/id/900288-L.jpg"
+      },
+      {
+        "name": "The Baiut Alley Lads",
+        "author": "Filip and Matei Florian",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Myth of the Eternal Return",
+        "author": "Mircea Eliade",
+        "year": 1949,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "RUS",
+    "books": [
+      {
+        "name": "The Hottest Dishes of the Tartar Cuisine",
+        "author": "Alina Bronsky",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "One Day in the Life of Ivan Denisovich (trans. Ralph Parker)",
+        "author": "Aleksandr Solzhenitsyn",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Day of the Oprichnik",
+        "author": "Vladimir Sorokin",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/6684734-L.jpg"
+      },
+      {
+        "name": "A Hero of Our Time",
+        "author": "Mikhail Lermontov",
+        "year": 1840,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Geroy%20nashego%20vremeni.png"
+      },
+      {
+        "name": "The Master and Margarita (trans. Michael Glenny)",
+        "author": "Mikhail Bulgakov",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "MINUS",
+        "author": "Roman Senchin",
+        "year": 2002,
+        "image": null
+      },
+      {
+        "name": "Requiem for the Living",
+        "author": "Alan Cherchesov",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/2264279-L.jpg"
+      },
+      {
+        "name": "Happiness is Possible",
+        "author": "Oleg Zaionchkovski",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Strange Life of Ivan Osokin",
+        "author": "PD Ouspensky",
+        "year": 1972,
+        "image": "https://covers.openlibrary.org/b/id/847893-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "RWA",
+    "books": [
+      {
+        "name": "We Wish to Inform You that Tomorrow We Will Be Killed with our Families",
+        "author": "Philip Gourevitch",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/196945-L.jpg"
+      },
+      {
+        "name": "Into the Quick of Life",
+        "author": "Jean Hatzfeld",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/900769-L.jpg"
+      },
+      {
+        "name": "By the Time She Returned",
+        "author": "John Rusimbi",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/3008392-L.jpg"
+      },
+      {
+        "name": "The Past Ahead",
+        "author": "Gilbert Gatore",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/14367119-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "KNA",
+    "books": [
+      {
+        "name": "Crossing the River",
+        "author": "Caryl Phillips",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/6799405-L.jpg"
+      },
+      {
+        "name": "Only God Can Make a Tree",
+        "author": "Bertram Roach",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/14503234-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "LCA",
+    "books": [
+      {
+        "name": "Omeros",
+        "author": "Derek Walcott",
+        "year": 1990,
+        "image": "https://covers.openlibrary.org/b/id/4031232-L.jpg"
+      },
+      {
+        "name": "A Room on the Hill",
+        "author": "Garth St Omer",
+        "year": 1968,
+        "image": null
+      },
+      {
+        "name": "J- Black Bam and the Masqueraders",
+        "author": "Garth St Omer",
+        "year": 1972,
+        "image": "https://covers.openlibrary.org/b/id/8471136-L.jpg"
+      },
+      {
+        "name": "Consolation",
+        "author": "Dr Earl Long",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Voices from a Drum",
+        "author": "Dr Earl Long",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Nor Any Country",
+        "author": "Garth St Omer",
+        "year": 1969,
+        "image": null
+      },
+      {
+        "name": "Shades of Grey",
+        "author": "Garth St Omer",
+        "year": 2000,
+        "image": null
+      },
+      {
+        "name": "Season of Mist",
+        "author": "McDonald Dixon",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/2565381-L.jpg"
+      },
+      {
+        "name": "Neg Maron",
+        "author": "Michael Aubertin",
+        "year": 2000,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "VCT",
+    "books": [
+      {
+        "name": "Spirits in the Dark",
+        "author": "H Nigel Thomas",
+        "year": 1987,
+        "image": "https://covers.openlibrary.org/b/id/685507-L.jpg"
+      },
+      {
+        "name": "Ruler in Hairoona",
+        "author": "George Thomas",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Moon is Following Me",
+        "author": "Cecil Browne",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/9406213-L.jpg"
+      },
+      {
+        "name": "Were Mama’s Tears in Vain?",
+        "author": "Richard Byron-Cox",
+        "year": 2025,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "WSM",
+    "books": [
+      {
+        "name": "Love and Money",
+        "author": "Misa Telefoni Retzlaff",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Telesa",
+        "author": "Lani Wendt Young",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/13181409-L.jpg"
+      },
+      {
+        "name": "The Adventures of Vela",
+        "author": "Albert Wendt",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/13861505-L.jpg"
+      },
+      {
+        "name": "Where We Once Belonged",
+        "author": "Sia Figiel",
+        "year": 1996,
+        "image": "https://covers.openlibrary.org/b/id/1664159-L.jpg"
+      },
+      {
+        "name": "The Girl in the Moon Circle",
+        "author": "Sia Figiel",
+        "year": 1996,
+        "image": "https://covers.openlibrary.org/b/id/2303303-L.jpg"
+      },
+      {
+        "name": "They Who do not Grieve",
+        "author": "Sia Figiel",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/5368688-L.jpg"
+      },
+      {
+        "name": "Sons for the Return Home",
+        "author": "Albert Wendt",
+        "year": 1973,
+        "image": "https://covers.openlibrary.org/b/id/1567393-L.jpg"
+      },
+      {
+        "name": "Pouliuli",
+        "author": "Albert Wendt",
+        "year": 1977,
+        "image": "https://covers.openlibrary.org/b/id/1567278-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "SMR",
+    "books": [
+      {
+        "name": "The Republic of San Marino",
+        "author": "Giuseppe Rossi",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "STP",
+    "books": [
+      {
+        "name": "The Shepherd’s House",
+        "author": "Olinda Beja",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SAU",
+    "books": [
+      {
+        "name": "Girls of Riyadh",
+        "author": "Rajaa Al-Sanea",
+        "year": 2007,
+        "image": null
+      },
+      {
+        "name": "My Thousand and One Nights: A Novel of Mecca",
+        "author": "Raja Alem",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Endings",
+        "author": "Abdul Rahman Munif",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/14699519-L.jpg"
+      },
+      {
+        "name": "Cities of Salt",
+        "author": "Abdul Rahman Munif",
+        "year": 1984,
+        "image": null
+      },
+      {
+        "name": "The Trench",
+        "author": "Abdul Rahman Munif",
+        "year": 1999,
+        "image": null
+      },
+      {
+        "name": "Variations on Night and Day",
+        "author": "Abdul Rahman Munif",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Voices of Change",
+        "author": "ed. Abubaker Bagader",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SEN",
+    "books": [
+      {
+        "name": "Une Si Longue Lettre (So Long a Letter)",
+        "author": "Mariama Bâ",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Riwan ou Le Chemin de Sable (Riwan or The Path of Sand)",
+        "author": "Ken Bugul",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SRB",
+    "books": [
+      {
+        "name": "Bridge in the River Drina",
+        "author": "Ivo Andric",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "A Novel About London",
+        "author": "Milos Crnjanski",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Bait",
+        "author": "David Albahari",
+        "year": 2001,
+        "image": null
+      },
+      {
+        "name": "Dictionary of the Khazars",
+        "author": "Milorad Pavic",
+        "year": 1984,
+        "image": null
+      },
+      {
+        "name": "Lake Como",
+        "author": "Srdjan Valjarevic",
+        "year": 2009,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Panoramic%20view%20of%20Como%20Lake%20%28Lago%20di%20Como%29%2C%20seen%20from%20the%20mountain%20Monte%20Grona%20-%20Plesio%20%28Como%29%202015-10-25.JPG"
+      },
+      {
+        "name": "Migrations",
+        "author": "Milos Crnjanski",
+        "year": 1988,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SYC",
+    "books": [
+      {
+        "name": "Voices",
+        "author": "Glynn Burridge",
+        "year": 2000,
+        "image": null
+      },
+      {
+        "name": "Beyond the Reefs",
+        "author": "William Travis",
+        "year": 1959,
+        "image": "https://covers.openlibrary.org/b/id/14883332-L.jpg"
+      },
+      {
+        "name": "Shark for Sale",
+        "author": "William Travis",
+        "year": 1961,
+        "image": "https://covers.openlibrary.org/b/id/15061541-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "SLE",
+    "books": [
+      {
+        "name": "The Memory of Love",
+        "author": "Aminatta Forna",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/8346040-L.jpg"
+      },
+      {
+        "name": "A Long Way Gone: Memoirs of Boy Soldier",
+        "author": "Ishmael Beah",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SGP",
+    "books": [
+      {
+        "name": "Fistful of Colours",
+        "author": "Su-Chen Christine Lim",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/4317451-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "SVK",
+    "books": [
+      {
+        "name": "Rivers of Babylon",
+        "author": "Peter Pistanek",
+        "year": 1970,
+        "image": null
+      },
+      {
+        "name": "Samko Tale’s Cemetery Book",
+        "author": "Daniela Kapitánová",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SVN",
+    "books": [
+      {
+        "name": "The Sublime Object of Ideology",
+        "author": "Slavoj Žižek",
+        "year": 1989,
+        "image": "https://covers.openlibrary.org/b/id/13503205-L.jpg"
+      },
+      {
+        "name": "Heaven in a Blackberry Bush: a Novel in Stories",
+        "author": "Nataša Kramberger",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "You do Understand",
+        "author": "Andrej Blatnik",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "Fužine Blues",
+        "author": "Andrej Skubic",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The German Lottery",
+        "author": "Miha Mazzini",
+        "year": 2012,
+        "image": null
+      },
+      {
+        "name": "Alamut",
+        "author": "Vladimir Bartol",
+        "year": 1958,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20Scenery%20Alborz%20Range.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "SLB",
+    "books": [
+      {
+        "name": "The Alternative",
+        "author": "John Saunana",
+        "year": 2006,
+        "image": null
+      },
+      {
+        "name": "Being the First: Storis Blong Oloketa Mere lo Solomon Aelan",
+        "author": "ed. Alice Aruhe’eta Pollard and Marilyn J. Waring",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SOM",
+    "books": [
+      {
+        "name": "Secrets",
+        "author": "Nuruddin Farah",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/787638-L.jpg"
+      },
+      {
+        "name": "Sweet and Sour Milk",
+        "author": "Nuruddin Farah",
+        "year": 1979,
+        "image": "https://covers.openlibrary.org/b/id/776362-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ZAF",
+    "books": [
+      {
+        "name": "Dancing Shoes is Dead",
+        "author": "Gavin Evans",
+        "year": 2002,
+        "image": "https://covers.openlibrary.org/b/id/2519387-L.jpg"
+      },
+      {
+        "name": "The Book of Happenstance",
+        "author": "Ingrid Winterbach",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/10383863-L.jpg"
+      },
+      {
+        "name": "The Quarry",
+        "author": "Damon Galgut",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/892861-L.jpg"
+      },
+      {
+        "name": "The Book of the Dead",
+        "author": "Kgebetli Moele",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/14370840-L.jpg"
+      },
+      {
+        "name": "Cabin Fever",
+        "author": "Diane Awerbuck",
+        "year": 2011,
+        "image": null
+      },
+      {
+        "name": "African Delights",
+        "author": "Siphiwo Mahala",
+        "year": 2011,
+        "image": null
+      },
+      {
+        "name": "Nineveh",
+        "author": "Henrietta Rose-Innes",
+        "year": 2016,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nineveh%20mashki%20gate%20from%20west.JPG"
+      },
+      {
+        "name": "The Loss Library",
+        "author": "Ivan Vladislavic",
+        "year": 2018,
+        "image": "https://covers.openlibrary.org/b/id/9240320-L.jpg"
+      },
+      {
+        "name": "The Long Walk to Freedom",
+        "author": "Nelson Mandela",
+        "year": 1996,
+        "image": "https://covers.openlibrary.org/b/id/190740-L.jpg"
+      },
+      {
+        "name": "the Beloved Country",
+        "author": "Alan Paton Cry",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "KOR",
+    "books": [
+      {
+        "name": "The Guest",
+        "author": "Hwang Sok-yong",
+        "year": 2023,
+        "image": "https://covers.openlibrary.org/b/id/1945641-L.jpg"
+      },
+      {
+        "name": "The Old Garden",
+        "author": "Hwang Sok-yong",
+        "year": 2006,
+        "image": null
+      },
+      {
+        "name": "A House on the Road",
+        "author": "Lee Hye-Kyung",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Please Look After Mom",
+        "author": "Shin Kyung-Sook",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/6717330-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "SSD",
+    "books": [
+      {
+        "name": "‘To Forgive is Divine not Human’",
+        "author": "Julia Duany",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "ESP",
+    "books": [
+      {
+        "name": "Five Hours with Mario",
+        "author": "Miguel Delibes",
+        "year": null,
+        "image": "https://covers.openlibrary.org/b/id/4059737-L.jpg"
+      },
+      {
+        "name": "Soldiers of Salamis",
+        "author": "Javier Cercas",
+        "year": 2001,
+        "image": null
+      },
+      {
+        "name": "The Anatomy of a Moment (trans. Anne McClean)",
+        "author": "Javier Cercas",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Blind Sunflowers",
+        "author": "Alberto Mendez",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "Don Quixote (trans. Edith Grossman)",
+        "author": "Miguel de Cervantes",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Shadow of the Wind",
+        "author": "Carlos Ruiz Zafon",
+        "year": 2001,
+        "image": null
+      },
+      {
+        "name": "Dublinesque",
+        "author": "Enrique Vila-Matas",
+        "year": 2012,
+        "image": "https://covers.openlibrary.org/b/id/10604479-L.jpg"
+      },
+      {
+        "name": "Exiled from Almost Everywhere",
+        "author": "Juan Goytisolo",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/13874949-L.jpg"
+      },
+      {
+        "name": "Molina Sefarad",
+        "author": "Antonio Muñoz",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LKA",
+    "books": [
+      {
+        "name": "Reef",
+        "author": "Romesh Gunesekera",
+        "year": 1994,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Reef%20band.jpg"
+      },
+      {
+        "name": "The Jam Fruit Tree",
+        "author": "Carl Muller",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/3869382-L.jpg"
+      },
+      {
+        "name": "Chinaman",
+        "author": "Shehan Karunatilaka",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/10343275-L.jpg"
+      },
+      {
+        "name": "A Disobedient Girl",
+        "author": "Ru Freeman",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/6758884-L.jpg"
+      },
+      {
+        "name": "The Shadow",
+        "author": "Siri Gunasinghe",
+        "year": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WellesShadow.jpg"
+      },
+      {
+        "name": "Circles of Fire",
+        "author": "Kathleen Jayawardena",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Ritual",
+        "author": "S Ponnuthurai",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Metta",
+        "author": "Sunethra Rajakarunanayake",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Doomed",
+        "author": "Keerthi Welisarage",
+        "year": 2017,
+        "image": null
+      },
+      {
+        "name": "Viragaya",
+        "author": "Martin Wickramasinghe",
+        "year": 1956,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SDN",
+    "books": [
+      {
+        "name": "The Grub Hunter",
+        "author": "Amir Tag Elsir",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Palm House",
+        "author": "Tarek Eltayeb",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Season of Migration to the North",
+        "author": "Tayeb Salih",
+        "year": 1966,
+        "image": null
+      },
+      {
+        "name": "Minaret",
+        "author": "Leila Aboulela",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/569661-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "SUR",
+    "books": [
+      {
+        "name": "The Cost of Sugar",
+        "author": "Cynthia Mcleod",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/11578140-L.jpg"
+      },
+      {
+        "name": "The Free Negress",
+        "author": "Cynthia Mcleod",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "SWE",
+    "books": [
+      {
+        "name": "Chronicler of the Winds",
+        "author": "Henning Mankell",
+        "year": 1995,
+        "image": null
+      },
+      {
+        "name": "The March of the Musicians (trans. Joan Tate)",
+        "author": "Per Olov Enquist",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Story of Blanche and Marie",
+        "author": "Per Olov Enquist",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/7457805-L.jpg"
+      },
+      {
+        "name": "Easy Money",
+        "author": "Jens Lapidus",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/10265051-L.jpg"
+      },
+      {
+        "name": "Island of Wings",
+        "author": "Karin Altenberg",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/11656924-L.jpg"
+      },
+      {
+        "name": "Montecore",
+        "author": "Jonas Hassen Khemiri",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/7236461-L.jpg"
+      },
+      {
+        "name": "Doctor Glas",
+        "author": "Hjalmar Soderberg",
+        "year": 1905,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doktor%20Glas.JPG"
+      },
+      {
+        "name": "Let the Right One In",
+        "author": "John Ajvide Lindqvist",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/6366443-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "CHE",
+    "books": [
+      {
+        "name": "The Pledge",
+        "author": "Friedrich Dürrenmatt",
+        "year": 1959,
+        "image": "https://covers.openlibrary.org/b/id/140557-L.jpg"
+      },
+      {
+        "name": "A Happy Man",
+        "author": "Hansjörg Schertenlieb",
+        "year": 2009,
+        "image": null
+      },
+      {
+        "name": "A Village Romeo and Juliet",
+        "author": "Gottfried Keller",
+        "year": 1960,
+        "image": null
+      },
+      {
+        "name": "In Matto’s Realm",
+        "author": "Friedrich Glauser",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/951456-L.jpg"
+      },
+      {
+        "name": "Children’s Stories",
+        "author": "Peter Bichsel",
+        "year": 1971,
+        "image": "https://covers.openlibrary.org/b/id/5011533-L.jpg"
+      },
+      {
+        "name": "Why the Child is Cooking in the Polenta",
+        "author": "Aglaja Veteranyi",
+        "year": 2012,
+        "image": null
+      },
+      {
+        "name": "Noah",
+        "author": "Hugo Loetscher",
+        "year": 1967,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NoahsSacrifice.JPG"
+      },
+      {
+        "name": "Isle of the Dead",
+        "author": "Gerhard Meier",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/13089404-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "TWN",
+    "books": [
+      {
+        "name": "Crystal Boys",
+        "author": "Pai Hsien-yung",
+        "year": 1983,
+        "image": "https://covers.openlibrary.org/b/id/717809-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "TJK",
+    "books": [
+      {
+        "name": "Hurramabad",
+        "author": "Andrei Volos",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/4880272-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "TZA",
+    "books": [
+      {
+        "name": "Mzimu wa Watu wa Kale",
+        "author": "Muhammed Said Abdulla",
+        "year": 1960,
+        "image": null
+      },
+      {
+        "name": "Desertion",
+        "author": "Abdulrazak Gurnah",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/226965-L.jpg"
+      },
+      {
+        "name": "Blood on Our Land",
+        "author": "Ismael Mbise",
+        "year": 1974,
+        "image": null
+      },
+      {
+        "name": "Their Voices Their Stories",
+        "author": "Bethsaida Orphan Girls’ Secondary School",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Broken Reed",
+        "author": "Sophia Mustafa",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/2305467-L.jpg"
+      },
+      {
+        "name": "The Girl from Uganda",
+        "author": "Tengio Urrio",
+        "year": 1993,
+        "image": "https://covers.openlibrary.org/b/id/2304843-L.jpg"
+      },
+      {
+        "name": "The Lion of Yola",
+        "author": "S Ndunguru",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/3363574-L.jpg"
+      },
+      {
+        "name": "More Than a Game",
+        "author": "Ronny Mintjens",
+        "year": 2009,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "THA",
+    "books": [
+      {
+        "name": "The Judgement",
+        "author": "Chart Korbjitti",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Four Reigns",
+        "author": "Kukrit Pramoj",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/1054380-L.jpg"
+      },
+      {
+        "name": "A Child of the Northeast",
+        "author": "Kampoon Boontawee",
+        "year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/5520100-L.jpg"
+      },
+      {
+        "name": "No Way Out",
+        "author": "Chart Korbjitti",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Time",
+        "author": "Chart Korbjitti",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "Mad Dogs & Co",
+        "author": "Chart Korbjitti",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "TGO",
+    "books": [
+      {
+        "name": "An African in Greenland",
+        "author": "Tété-Michel Kpomassie",
+        "year": 1981,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sisimiut-nasaasaaq-from-palasip-qaqqaa.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "TON",
+    "books": [
+      {
+        "name": "A Providence of War",
+        "author": "Joshua Taumoefolau",
+        "year": 2013,
+        "image": "https://covers.openlibrary.org/b/id/11472132-L.jpg"
+      },
+      {
+        "name": "Tales of the Tikongs",
+        "author": "Epeli Hau’ofa",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "TTO",
+    "books": [
+      {
+        "name": "A House for Mr Biswas",
+        "author": "VS Naipaul",
+        "year": 1961,
+        "image": null
+      },
+      {
+        "name": "In a Free State",
+        "author": "VS Naipaul",
+        "year": 1971,
+        "image": "https://covers.openlibrary.org/b/id/93425-L.jpg"
+      },
+      {
+        "name": "The White Woman on the Green Bicycle",
+        "author": "Monique Roffey",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/8479658-L.jpg"
+      },
+      {
+        "name": "Carnival",
+        "author": "Robert Antoni",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/1511677-L.jpg"
+      },
+      {
+        "name": "Near Open Water",
+        "author": "Keith Jardim",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/7809708-L.jpg"
+      },
+      {
+        "name": "Is Just a Movie",
+        "author": "Earl Lovelace",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/10367167-L.jpg"
+      },
+      {
+        "name": "One Scattered Skeleton",
+        "author": "Vahni Capildeo",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Moon on a Rainbow Shawl",
+        "author": "Errol John",
+        "year": 1958,
+        "image": "https://covers.openlibrary.org/b/id/9063011-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "TUN",
+    "books": [
+      {
+        "name": "The Scents of Marie-Claire",
+        "author": "Habib Selmi",
+        "year": 2008,
+        "image": null
+      },
+      {
+        "name": "Abu Hurairah Said",
+        "author": "Mahmoud Messadi",
+        "year": 1973,
+        "image": null
+      },
+      {
+        "name": "Talismano",
+        "author": "Abdelwahab Meddeb",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/10234040-L.jpg"
+      },
+      {
+        "name": "A Tunisian Tale",
+        "author": "Hassouna Mosbahi",
+        "year": 2007,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "TUR",
+    "books": [
+      {
+        "name": "Snow",
+        "author": "Orhan Pamuk",
+        "year": 2002,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Snow%20%28singer%29.jpg"
+      },
+      {
+        "name": "Çalıkuşu",
+        "author": "Reşat Nuri Güntekin",
+        "year": 1923,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zeyniler%20K%C3%B6y%C3%BC%2C%20%C3%87al%C4%B1ku%C5%9Fu%20Evi%2C%20Bursa.jpg"
+      },
+      {
+        "name": "Gurbet Hikayeleri",
+        "author": "Refik Halit Karay",
+        "year": 1940,
+        "image": null
+      },
+      {
+        "name": "Madonna in a Fur Coat",
+        "author": "Sabahattin Ali",
+        "year": 1943,
+        "image": "https://covers.openlibrary.org/b/id/12762238-L.jpg"
+      },
+      {
+        "name": "Memed, My Hawk",
+        "author": "Yaşar Kemal",
+        "year": 1955,
+        "image": null
+      },
+      {
+        "name": "Dear Shameless Death",
+        "author": "Latife Tekin",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/452930-L.jpg"
+      },
+      {
+        "name": "The Forty Rules of Love",
+        "author": "Elif Shafak",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/9078986-L.jpg"
+      },
+      {
+        "name": "The Other Side of the Mountain",
+        "author": "Erendiz Atasu",
+        "year": 1975,
+        "image": "https://covers.openlibrary.org/b/id/883953-L.jpg"
+      },
+      {
+        "name": "On the Road to Baghdad",
+        "author": "Güneli Gün",
+        "year": 1991,
+        "image": "https://covers.openlibrary.org/b/id/195907-L.jpg"
+      },
+      {
+        "name": "The Useless Man",
+        "author": "Sait Faik Abasıyanık",
+        "year": 1947,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "TKM",
+    "books": [
+      {
+        "name": "Unknown Sands",
+        "author": "John Kropf",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/742055-L.jpg"
+      },
+      {
+        "name": "Cobra",
+        "author": "Ak Welsapar",
+        "year": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zurich%20Be%205-6%20Cobra%203002%20Letzistrasse.jpg"
+      },
+      {
+        "name": "The Tale of Aypi",
+        "author": "Ak Welsapar",
+        "year": 2016,
+        "image": "https://covers.openlibrary.org/b/id/11531591-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "TUV",
+    "books": [
+      {
+        "name": "Tuvalu: a history",
+        "author": "Various authors",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "UGA",
+    "books": [
+      {
+        "name": "Song of Lawino",
+        "author": "Okot p’Bitek",
+        "year": 1966,
+        "image": "https://covers.openlibrary.org/b/id/275069-L.jpg"
+      },
+      {
+        "name": "Tropical Fish: Stories Out Of Entebbe",
+        "author": "Doreen Baingan",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Abyssinian Chronicles",
+        "author": "Moses Isegawa",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/225850-L.jpg"
+      },
+      {
+        "name": "Snakepit",
+        "author": "Moses Isegawa",
+        "year": 2004,
+        "image": "https://covers.openlibrary.org/b/id/226461-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "UKR",
+    "books": [
+      {
+        "name": "Death and the Penguin",
+        "author": "Andrey Kurkov",
+        "year": 1996,
+        "image": "https://covers.openlibrary.org/b/id/915096-L.jpg"
+      },
+      {
+        "name": "Wave of Terror",
+        "author": "Theodore Odrach",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/2682136-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ARE",
+    "books": [
+      {
+        "name": "Gold Ring",
+        "author": "Qais Sedki",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Sand Fish",
+        "author": "Maha Gargash",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/6305968-L.jpg"
+      },
+      {
+        "name": "The Wink of the Mona Lisa",
+        "author": "Mohammad Al Murr",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Dubai Tales",
+        "author": "Mohammad Al Murr",
+        "year": 1994,
+        "image": "https://covers.openlibrary.org/b/id/12513870-L.jpg"
+      },
+      {
+        "name": "Desperate in Dubai",
+        "author": "Ameera Al Hakawati",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/10840525-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "GBR",
+    "books": [
+      {
+        "name": "Stories from South Uist",
+        "author": "Angus MacLellan",
+        "year": 2016,
+        "image": "https://covers.openlibrary.org/b/id/2074270-L.jpg"
+      },
+      {
+        "name": "Jack and Shanco",
+        "author": "Caryl Lewis Martha",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "To the Edge of the Sea",
+        "author": "Christina Hall",
+        "year": 1999,
+        "image": "https://covers.openlibrary.org/b/id/2017886-L.jpg"
+      },
+      {
+        "name": "Swimming Home",
+        "author": "Deborah Levy",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/8332111-L.jpg"
+      },
+      {
+        "name": "Y Trydydd Peth",
+        "author": "Siân Melangell Dafydd",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/11749060-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "URY",
+    "books": [
+      {
+        "name": "The Shipyard",
+        "author": "Juan Carlos Onetti",
+        "year": 1961,
+        "image": null
+      },
+      {
+        "name": "The Pit and Tonight",
+        "author": "Juan Carlos Onetti",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Lands of Memory",
+        "author": "Felisberto Hernández",
+        "year": 1965,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portada%20-%20Tierras%20de%20la%20memoria%20-%20Felisberto%20Hern%C3%A1ndez%20-%20Uruguay%20-%20Dominio%20P%C3%BAblico.png"
+      },
+      {
+        "name": "The Decapitated Chicken",
+        "author": "Horacio Quiroga",
+        "year": 1976,
+        "image": "https://covers.openlibrary.org/b/id/159110-L.jpg"
+      },
+      {
+        "name": "Open Veins of Latin America",
+        "author": "Eduardo Galeano",
+        "year": 1971,
+        "image": null
+      },
+      {
+        "name": "The Truce",
+        "author": "Mario Benedetti",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "UZB",
+    "books": [
+      {
+        "name": "The Railway",
+        "author": "Hamid Ismailov",
+        "year": 2007,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Le%20Chemin%20de%20fer%20-%20Google%20Art%20Project.jpg"
+      },
+      {
+        "name": "The Dancer from Khiva: One Muslim Woman’s Quest for Freedom",
+        "author": "Bibish",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "VUT",
+    "books": [
+      {
+        "name": "Laef Blong Mi: From Village to Nation",
+        "author": "Sethy Regenvau",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "VEN",
+    "books": [
+      {
+        "name": "El pasajero de Truman",
+        "author": "Francisco Suniaga",
+        "year": 2008,
+        "image": "https://covers.openlibrary.org/b/id/13352344-L.jpg"
+      },
+      {
+        "name": "The Sickness",
+        "author": "Alberto Barrera Tyszka",
+        "year": 2000,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "VNM",
+    "books": [
+      {
+        "name": "The Joker",
+        "author": "Phan Hon Nhien",
+        "year": 2010,
+        "image": "https://covers.openlibrary.org/b/id/12489464-L.jpg"
+      },
+      {
+        "name": "Cho tôi xin một vé đi tuổi thơ",
+        "author": "Nguyen Nhat Anh",
+        "year": 2008,
+        "image": null
+      },
+      {
+        "name": "Cold Eyes",
+        "author": "Phan Hon Nhien",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Left Wing",
+        "author": "Phan Hon Nhien",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "The Sorrow of War (trans. Frank Palmos",
+        "author": "Bao Ninh",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "YEM",
+    "books": [
+      {
+        "name": "A Land without Jasmine",
+        "author": "Wajdi al-Ahdal",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Dammaj The Hostage",
+        "author": "Zayd Mutee’",
+        "year": null,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "ZMB",
+    "books": [
+      {
+        "name": "A Cowrie of Hope",
+        "author": "Binwell Sinyangwe",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/1227787-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ZWE",
+    "books": [
+      {
+        "name": "An Elegy for Easterly",
+        "author": "Petinah Gappah",
+        "year": null,
+        "image": null
+      },
+      {
+        "name": "Nervous Conditions",
+        "author": "Tsitsi Dangarembga",
+        "year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/7934158-L.jpg"
+      },
+      {
+        "name": "Harare North",
+        "author": "Brian Chikwava",
+        "year": 2009,
+        "image": "https://covers.openlibrary.org/b/id/6301524-L.jpg"
+      },
+      {
+        "name": "The Hairdresser of Harare",
+        "author": "Tendai Huchu",
+        "year": 2010,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TendaiHuchu2019.jpg"
+      },
+      {
+        "name": "Chioniso and Other Stories",
+        "author": "Shimmer Chinodya",
+        "year": 2012,
+        "image": null
+      },
+      {
+        "name": "Out of the Black Shadows",
+        "author": "Stephen Lungu",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/628260-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "ATA",
+    "books": [
+      {
+        "name": "South with Endurance",
+        "author": "Frank Worsley",
+        "year": 1931,
+        "image": null
+      },
+      {
+        "name": "Endurance",
+        "author": "Alfred Lansing",
+        "year": 1959,
+        "image": "https://covers.openlibrary.org/b/id/542833-L.jpg"
+      },
+      {
+        "name": "The Worst Journey in the World",
+        "author": "Apsley Cherry-Garrard",
+        "year": 1922,
+        "image": "https://covers.openlibrary.org/b/id/12819590-L.jpg"
+      },
+      {
+        "name": "Scott's Last Expedition",
+        "author": "Robert Falcon Scott",
+        "year": 1913,
+        "image": "https://covers.openlibrary.org/b/id/542624-L.jpg"
+      },
+      {
+        "name": "South: The Endurance Expedition",
+        "author": "Ernest Shackleton",
+        "year": 1919,
+        "image": null
+      },
+      {
+        "name": "Antarctic Journeys",
+        "author": "Douglas Mawson",
+        "year": 1915,
+        "image": null
+      },
+      {
+        "name": "The Coldest March",
+        "author": "Susan Solomon",
+        "year": 2001,
+        "image": null
+      },
+      {
+        "name": "Polar Exploration",
+        "author": "W.S. Bruce",
+        "year": 1911,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "ATF",
+    "books": [
+      {
+        "name": "Terre Adélie",
+        "author": "Paul-Émile Victor",
+        "year": 1956,
+        "image": null
+      },
+      {
+        "name": "Voyages au pôle Sud",
+        "author": "Jules Dumont d'Urville",
+        "year": 1841,
+        "image": null
+      },
+      {
+        "name": "Antarctic Science",
+        "author": "CNRS Collective",
+        "year": 2005,
+        "image": null
+      },
+      {
+        "name": "French Polar Expeditions",
+        "author": "Jean-Baptiste Charcot",
+        "year": 1910,
+        "image": null
+      },
+      {
+        "name": "Adélie Land Studies",
+        "author": "IFREMER",
+        "year": 1998,
+        "image": null
+      },
+      {
+        "name": "Polar Territories of France",
+        "author": "Michel Rocard",
+        "year": 2002,
+        "image": null
+      },
+      {
+        "name": "The Frozen Empire",
+        "author": "Various",
+        "year": 2010,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BHS",
+    "books": [
+      {
+        "name": "The Bahamas: A History",
+        "author": "Michael Craton",
+        "year": 1962,
+        "image": "https://covers.openlibrary.org/b/id/4352449-L.jpg"
+      },
+      {
+        "name": "Island Beneath the Sea",
+        "author": "Isabel Allende",
+        "year": 2009,
+        "image": null
+      },
+      {
+        "name": "Lucayan Legacy",
+        "author": "William Keegan",
+        "year": 1992,
+        "image": null
+      },
+      {
+        "name": "The Bahamas in Slavery and Freedom",
+        "author": "Howard Johnson",
+        "year": 1991,
+        "image": null
+      },
+      {
+        "name": "Colonial Bahamas",
+        "author": "Sandra Riley",
+        "year": 1987,
+        "image": null
+      },
+      {
+        "name": "A History of the Bahamas",
+        "author": "Keith Tinker",
+        "year": 1985,
+        "image": null
+      },
+      {
+        "name": "Pirates of Nassau",
+        "author": "David Cordingly",
+        "year": 1995,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "BRN",
+    "books": [
+      {
+        "name": "Malay Islamic Monarchy",
+        "author": "Haji Awang Mohd Jamil",
+        "year": 1998,
+        "image": null
+      },
+      {
+        "name": "Brunei: Tradition and Change",
+        "author": "Graham Saunders",
+        "year": 1994,
+        "image": null
+      },
+      {
+        "name": "History of Brunei",
+        "author": "Sabihah Osman",
+        "year": 1987,
+        "image": null
+      },
+      {
+        "name": "Brunei Darussalam: The Making of a Nation",
+        "author": "Victor T. King",
+        "year": 2001,
+        "image": null
+      },
+      {
+        "name": "Islam in Brunei",
+        "author": "Peter Carey",
+        "year": 1996,
+        "image": null
+      },
+      {
+        "name": "Borneo Studies",
+        "author": "Various",
+        "year": 2005,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "CIV",
+    "books": [
+      {
+        "name": "Les Soleils des indépendances",
+        "author": "Ahmadou Kourouma",
+        "year": 1968,
+        "image": "https://covers.openlibrary.org/b/id/13272075-L.jpg"
+      },
+      {
+        "name": "Allah is Not Obliged",
+        "author": "Ahmadou Kourouma",
+        "year": 2000,
+        "image": "https://covers.openlibrary.org/b/id/11333834-L.jpg"
+      },
+      {
+        "name": "The Black Diary",
+        "author": "Tanella Boni",
+        "year": 2004,
+        "image": null
+      },
+      {
+        "name": "Ivory Coast: A Political History",
+        "author": "Robert J. Mundt",
+        "year": 1995,
+        "image": null
+      },
+      {
+        "name": "The State of Africa",
+        "author": "Martin Meredith",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/12509701-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "COD",
+    "books": [
+      {
+        "name": "King Leopold's Ghost",
+        "author": "Adam Hochschild",
+        "year": 1998,
+        "image": "https://covers.openlibrary.org/b/id/392738-L.jpg"
+      },
+      {
+        "name": "Congo: The Epic History of a People",
+        "author": "David Van Reybrouck",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "year": 1899,
+        "image": "https://covers.openlibrary.org/b/id/12307847-L.jpg"
+      },
+      {
+        "name": "Dancing in the Glory of Monsters",
+        "author": "Jason Stearns",
+        "year": 2011,
+        "image": "https://covers.openlibrary.org/b/id/7534997-L.jpg"
+      },
+      {
+        "name": "Blood River",
+        "author": "Tim Butcher",
+        "year": 2007,
+        "image": "https://covers.openlibrary.org/b/id/447655-L.jpg"
+      },
+      {
+        "name": "The State of Africa",
+        "author": "Martin Meredith",
+        "year": 2006,
+        "image": "https://covers.openlibrary.org/b/id/12509701-L.jpg"
+      },
+      {
+        "name": "In the Footsteps of Mr Kurtz",
+        "author": "Michela Wrong",
+        "year": 2001,
+        "image": null
+      },
+      {
+        "name": "Congo Masquerade",
+        "author": "Stephen Smith",
+        "year": 1998,
+        "image": null
+      },
+      {
+        "name": "Congo Journey",
+        "author": "Redmond O'Hanlon",
+        "year": 1996,
+        "image": "https://covers.openlibrary.org/b/id/10411101-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "COG",
+    "books": [
+      {
+        "name": "Congo: A History",
+        "author": "David Van Reybrouck",
+        "year": 2010,
+        "image": null
+      },
+      {
+        "name": "The Congo Basin",
+        "author": "UNESCO Reports",
+        "year": 2008,
+        "image": null
+      },
+      {
+        "name": "Brazzaville Noir",
+        "author": "Alain Mabanckou",
+        "year": 2007,
+        "image": null
+      },
+      {
+        "name": "African Kings",
+        "author": "Various",
+        "year": 2003,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "FLK",
+    "books": [
+      {
+        "name": "The Falklands War",
+        "author": "Max Hastings",
+        "year": 1983,
+        "image": null
+      },
+      {
+        "name": "Two Sides of Hell",
+        "author": "Vincent Bramley",
+        "year": 1992,
+        "image": "https://covers.openlibrary.org/b/id/3039789-L.jpg"
+      },
+      {
+        "name": "The Battle for the Falklands",
+        "author": "Middlebrook",
+        "year": 1989,
+        "image": null
+      },
+      {
+        "name": "Falklands: The History of the Islands",
+        "author": "Mary Cawkell",
+        "year": 2001,
+        "image": "https://covers.openlibrary.org/b/id/2683601-L.jpg"
+      },
+      {
+        "name": "The Falklands Campaign",
+        "author": "Lawrence Freedman",
+        "year": 2005,
+        "image": "https://covers.openlibrary.org/b/id/2414931-L.jpg"
+      }
+    ]
+  },
+  {
+    "iso": "GRL",
+    "books": [
+      {
+        "name": "Greenland: A Country Study",
+        "author": "US Government",
+        "year": 1994,
+        "image": null
+      },
+      {
+        "name": "The Greenlanders",
+        "author": "Jane Smiley",
+        "year": 1988,
+        "image": "https://covers.openlibrary.org/b/id/747398-L.jpg"
+      },
+      {
+        "name": "Gronland History",
+        "author": "Finn Gad",
+        "year": 1973,
+        "image": "https://covers.openlibrary.org/b/id/7358393-L.jpg"
+      },
+      {
+        "name": "Kalaallit Nunaat",
+        "author": "Various Greenlandic Authors",
+        "year": 2002,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "LAO",
+    "books": [
+      {
+        "name": "The Land of a Million Elephants",
+        "author": "Joseph Zasloff",
+        "year": 1973,
+        "image": null
+      },
+      {
+        "name": "Voices from Laos",
+        "author": "Grant Evans",
+        "year": 1999,
+        "image": null
+      },
+      {
+        "name": "A Short History of Laos",
+        "author": "Martin Stuart-Fox",
+        "year": 1997,
+        "image": null
+      },
+      {
+        "name": "Laos: Culture and Society",
+        "author": "Various",
+        "year": 2004,
+        "image": null
+      }
+    ]
+  },
+  {
+    "iso": "USA",
+    "books": [
+      {
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "image": "https://covers.openlibrary.org/b/id/10544254-L.jpg"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "image": "https://covers.openlibrary.org/b/id/10590366-L.jpg"
+      },
+      {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "image": "https://covers.openlibrary.org/b/id/14351077-L.jpg"
+      },
+      {
+        "name": "Beloved",
+        "author": "Toni Morrison",
+        "year": 1987,
+        "image": "https://covers.openlibrary.org/b/id/8261367-L.jpg"
+      },
+      {
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "image": "https://covers.openlibrary.org/b/id/9273490-L.jpg"
+      },
+      {
+        "name": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "year": 1939,
+        "image": "https://covers.openlibrary.org/b/id/12715902-L.jpg"
+      },
+      {
+        "name": "Invisible Man",
+        "author": "Ralph Ellison",
+        "year": 1952,
+        "image": "https://covers.openlibrary.org/b/id/998256-L.jpg"
+      },
+      {
+        "name": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "year": 1969,
+        "image": "https://covers.openlibrary.org/b/id/12727001-L.jpg"
+      },
+      {
+        "name": "Leaves of Grass",
+        "author": "Walt Whitman",
+        "year": 1855,
+        "image": "https://covers.openlibrary.org/b/id/9000447-L.jpg"
+      },
+      {
+        "name": "On the Road",
+        "author": "Jack Kerouac",
+        "year": 1957,
+        "image": "https://covers.openlibrary.org/b/id/34655-L.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+.leaflet-container,
+.leaflet-pane,
+.leaflet-map-pane,
+.leaflet-tile-pane {
+  background: #e8e4dc !important;
+}
+
+body {
+  background: #e8e4dc;
+  margin: 0;
+}
+
+.leaflet-overlay-pane svg {
+  pointer-events: auto !important;
+}
+
+.leaflet-overlay-pane path {
+  pointer-events: auto !important;
+}
+
+.leaflet-interactive {
+  pointer-events: auto !important;
+}
