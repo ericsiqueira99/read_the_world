@@ -203,34 +203,41 @@ function parseGoodreadsUser(input) {
   }
 }
 
-import { kv } from '@vercel/kv';
-import { join } from "path";
 import { existsSync, readFileSync, writeFileSync } from "fs";
 
 const CACHE_DIR = "./cache";
 const CACHE_TTL_MS = 24 * 60 * 60 * 1000;
 const IS_VERCEL = !!process.env.KV_REST_API_URL;
 
+import { Redis } from '@upstash/redis';
+
+const redis = new Redis({
+  url: process.env.UPSTASH_REDIS_REST_URL,
+  token: process.env.UPSTASH_REDIS_REST_TOKEN,
+});
+
+const IS_VERCEL = !!process.env.UPSTASH_REDIS_REST_URL;
+
 export async function getCachedResult(userId) {
   if (IS_VERCEL) {
-    return await kv.get(userId); // KV handles TTL automatically
+    return await redis.get(userId);
   }
 
-  const path = join(CACHE_DIR, `${userId}.json`);
-  if (!existsSync(path)) return null;
-  const { timestamp, data } = JSON.parse(readFileSync(path, "utf-8"));
+  const filePath = join(CACHE_DIR, `${userId}.json`);
+  if (!existsSync(filePath)) return null;
+  const { timestamp, data } = JSON.parse(readFileSync(filePath, "utf-8"));
   if (Date.now() - timestamp > CACHE_TTL_MS) return null;
   return data;
 }
 
 export async function setCachedResult(userId, data) {
   if (IS_VERCEL) {
-    await kv.set(userId, data, { ex: 86400 }); // 86400 seconds = 24hr TTL
+    await redis.set(userId, data, { ex: 86400 });
     return;
   }
 
-  const path = join(CACHE_DIR, `${userId}.json`);
-  writeFileSync(path, JSON.stringify({ timestamp: Date.now(), data }));
+  const filePath = join(CACHE_DIR, `${userId}.json`);
+  writeFileSync(filePath, JSON.stringify({ timestamp: Date.now(), data }));
 }
 
 export { getUserMap, parseGoodreadsUser, getCachedResult, setCachedResult };
