@@ -14,14 +14,8 @@ app.post("/api/books", async (req, res) => {
   try {
     const user = req.body.user;
     if (!user) return res.status(400).json({ error: "Missing user parameter" });
-
     const userId = parseGoodreadsUser(user);
-
-    const cached = getCachedResult(userId);
-    if (cached) return res.json(cached);
-
     const result = await getUserMap(userId);
-    setCachedResult(userId, result);
     return res.json(result);
   } catch (e) {
     console.error("Caught error:", e.message);
