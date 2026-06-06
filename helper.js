@@ -203,11 +203,8 @@ function parseGoodreadsUser(input) {
   }
 }
 
-import { existsSync, readFileSync, writeFileSync } from "fs";
-
 const CACHE_DIR = "./cache";
 const CACHE_TTL_MS = 24 * 60 * 60 * 1000;
-const IS_VERCEL = !!process.env.KV_REST_API_URL;
 
 import { Redis } from '@upstash/redis';
 
@@ -218,7 +215,7 @@ const redis = new Redis({
 
 const IS_VERCEL = !!process.env.UPSTASH_REDIS_REST_URL;
 
-export async function getCachedResult(userId) {
+ async function getCachedResult(userId) {
   if (IS_VERCEL) {
     return await redis.get(userId);
   }
@@ -230,7 +227,7 @@ export async function getCachedResult(userId) {
   return data;
 }
 
-export async function setCachedResult(userId, data) {
+ async function setCachedResult(userId, data) {
   if (IS_VERCEL) {
     await redis.set(userId, data, { ex: 86400 });
     return;
