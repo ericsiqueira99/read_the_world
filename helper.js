@@ -203,20 +203,32 @@ function parseGoodreadsUser(input) {
   }
 }
 
-const CACHE_DIR = "./cache";
-const CACHE_TTL_MS = 24 * 60 * 60 * 1000; // 24 hours
+import { kv } from '@vercel/kv';
+import { join } from "path";
+import { existsSync, readFileSync, writeFileSync } from "fs";
 
-function getCachedResult(userId) {
+const CACHE_DIR = "./cache";
+const CACHE_TTL_MS = 24 * 60 * 60 * 1000;
+const IS_VERCEL = !!process.env.KV_REST_API_URL;
+
+export async function getCachedResult(userId) {
+  if (IS_VERCEL) {
+    return await kv.get(userId); // KV handles TTL automatically
+  }
+
   const path = join(CACHE_DIR, `${userId}.json`);
   if (!existsSync(path)) return null;
-
   const { timestamp, data } = JSON.parse(readFileSync(path, "utf-8"));
-  if (Date.now() - timestamp > CACHE_TTL_MS) return null; // stale
-
+  if (Date.now() - timestamp > CACHE_TTL_MS) return null;
   return data;
 }
 
-function setCachedResult(userId, data) {
+export async function setCachedResult(userId, data) {
+  if (IS_VERCEL) {
+    await kv.set(userId, data, { ex: 86400 }); // 86400 seconds = 24hr TTL
+    return;
+  }
+
   const path = join(CACHE_DIR, `${userId}.json`);
   writeFileSync(path, JSON.stringify({ timestamp: Date.now(), data }));
 }
